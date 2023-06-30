@@ -41,4 +41,3 @@ Contact
 ======
 - WeChat: hzr1242378947
 - Zhihu: [Wind-Gone](https://www.zhihu.com/people/hhhuhuh)
-- Github: [Wind-Gone](https://github.com/Wind-Gone)
