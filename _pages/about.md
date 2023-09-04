@@ -14,7 +14,7 @@ His research focuses on database kernel technology, especially for benchmark des
 
 Selected Awards
 ======
-1. 2023 **13th place** in the Preliminary Round of Order Matching System Design Competition in Ubiquant Investment Corp
+1. 2023 **Top 20** in the Order Matching System Design Competition in Ubiquant Investment Corp
 2. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: 智能时代的数据系统)
 3. 2022 [**Second place** of the First OceanBase Database Challenge](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
 4. 2022 [**11th place** in the Preliminary Round of the TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
