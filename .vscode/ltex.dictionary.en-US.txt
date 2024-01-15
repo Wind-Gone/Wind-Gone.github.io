@@ -1,6 +1,0 @@
-OceanBase
-TiDB
-Bytedance
-MathorCup
-ECNU
-OLAP
