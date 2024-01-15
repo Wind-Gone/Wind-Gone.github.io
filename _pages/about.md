@@ -22,7 +22,7 @@ Selected Awards
 6. 2022 [**11th place** in the Preliminary Round of the TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
 7. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 8. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-9. 2022 **Outstanding Graduate** of Shanghai Province
+9. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
 10. 2021 **Second prize** in China College Student Computer Design Competition
 11. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
 12. 2021 **Second Prize** in MathorCup University Mathematical Modeling Challenge
