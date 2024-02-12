@@ -43,4 +43,3 @@ Teaching Experience
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring
 - PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai PingCAP, 2022 Winter
 - Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring
-- 
