@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hu Zirui (2001.02), received his B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) in [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
+Hu Zirui 胡梓锐 (2001.02), received his B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
 He is currently pursuing his doctorate degree in the [DBHammer](https://dbhammer.github.io/) research group, under the guidance of Professor [Zhang Rong](https://dblp.org/pid/13/5366-2.html) at [Data Science and Engineering College](http://dase.ecnu.edu.cn/) of East China Normal University (2022 - 2027).
 
 His research focuses on database kernel technology, especially for OLAP query optimization, AI4DB, and benchmark design.
@@ -35,9 +35,11 @@ Publications
 ======
 - **Hu ZR**, Weng SY, Wang QS, Yu R, Xu JK, Zhang R, Zhou X. Data Sharing Model and Optimization Strategies in HTAP Database Systems. Ruan Jian Xue Bao/Journal of Software (CCF-A CN)，2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 
-<!-- - Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks (submission). Ruan Jian Xue Bao/Journal of Software (CCF-A CN)，2024. [PDF]()
+<!-- - 
+- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks (submission). Ruan Jian Xue Bao/Journal of Software (CCF-A CN)，2024. [PDF]()
 - Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads (submission). ICDE (CCF-A), 2024. [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf), [Code](https://github.com/DBHammer/Mirage).
-- **Zirui Hu**, Qingshuai Wang, Vodka: Fairly . arXiv(TODO) 2024. [PDF]() -->
+- **Zirui Hu**, Qingshuai Wang, Vodka: Fairly . arXiv(TODO) 2024. [PDF]().
+- -->
 
 Teaching Experience
 ======
