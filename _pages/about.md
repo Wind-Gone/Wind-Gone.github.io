@@ -33,10 +33,10 @@ Selected Awards
 
 Publications
 ======
-- **Hu ZR**, Weng SY, Wang QS, Yu R, Xu JK, Zhang R, Zhou X. Data Sharing Model and Optimization Strategies in HTAP Database Systems. Ruan Jian Xue Bao/Journal of Software (CCF-A CN)，2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
-- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks. Ruan Jian Xue Bao/Journal of Software (CCF-A CN)，2024. [PDF](). Under Review.
-- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ICDE (CCF-A), 2024. [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf), [Code](https://github.com/DBHammer/Mirage). Under Review.
-- Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Digital Economy and Sustainable Development (Economics), 2024. [PDF]().
+- **Hu ZR**, Weng SY, Wang QS, Yu R, Xu JK, Zhang R, Zhou X. Data Sharing Model and Optimization Strategies in HTAP Database Systems. Ruan Jian Xue Bao/Journal of Software (Computer Science, CCF-A CN)，2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
+- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks. Ruan Jian Xue Bao/Journal of Software (Computer Science, CCF-A CN)，2024. [PDF](). Under Review.
+- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ICDE (Computer Science, CCF-A), 2024. [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf), [Code](https://github.com/DBHammer/Mirage). Under Review.
+- Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Digital Economy and Sustainable Development (Economics, None), 2024. [PDF]().
 <!-- - **Zirui Hu**, Qingshuai Wang, Vodka: Fairly . arXiv(TODO) 2024. [PDF](). -->
 
 Teaching Experience
