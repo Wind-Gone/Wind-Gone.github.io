@@ -18,9 +18,9 @@ Selected Awards
 2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 3. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
 4. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: 智能时代的数据系统)
-5. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+5. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
 6. 2022 [**11th place** in the Preliminary Round of the TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
-7. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+7. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 8. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
 9. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
 10. 2021 **Second prize** in China College Student Computer Design Competition
@@ -49,4 +49,4 @@ Teaching Experience
 ======
 - AntGroup OceanBase MiniOB：A Simplified-version DBMS of OceanBase [![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
 - VLDB Summer School 2022: A Learning-based Query Optimizer [![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-- A PaaS Trading Platform based on Zero-knowledge Proof and Blockchain  [![](https://img.shields.io/github/stars/alittlehorse/osprey?style=social&label=Code+Stars)](https://github.com/alittlehorse/osprey) -->
+- A PaaS Trading Platform based on Zero-knowledge Proof and Blockchain [![](https://img.shields.io/github/stars/alittlehorse/osprey?style=social&label=Code+Stars)](https://github.com/alittlehorse/osprey) -->
