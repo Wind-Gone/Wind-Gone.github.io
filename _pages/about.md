@@ -12,7 +12,7 @@ I am currently pursuing his doctorate degree in the [DBHammer](https://dbhammer.
 
 My research focuses on database kernel technology, especially for OLAP query optimization, AI4DB, and benchmark design. You can find more information about me in [Zhihu](https://www.zhihu.com/people/hhhuhuh).
 
-:trophy: Selected Awards
+🎖 Selected Awards
 ======
 1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
 2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
