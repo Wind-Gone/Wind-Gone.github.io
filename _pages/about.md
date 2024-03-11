@@ -12,7 +12,7 @@ I am currently pursuing his doctorate degree in the [DBHammer](https://dbhammer.
 
 My research focuses on database kernel technology, especially for OLAP query optimization, AI4DB, and benchmark design. You can find more information about me in [Zhihu](https://www.zhihu.com/people/hhhuhuh).
 
- Selected Awards
+:trophy: Selected Awards
 ======
 1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
 2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
@@ -30,7 +30,7 @@ My research focuses on database kernel technology, especially for OLAP query opt
 14. 2019-2021 **First-Class Scholarship** in ECNU
 15. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
 
-Publications
+📝 Publications
 ======
 - Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``ICDE`` (Computer Science, **CCF-A**), 2024,  [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 
@@ -42,7 +42,7 @@ Publications
 
   <!-- - **Zirui Hu**, Qingshuai Wang, Vodka: Fairly Benchmarking HTAP Systems on Demand. ``Preprint`` 2024. [PDF](). -->
 
-Educations
+📖 Educations
 ======
 
 - 2022.09 - Now, Data Science and Engineering College, East China Normal University.
@@ -50,13 +50,13 @@ Educations
 - 2018.09 - 2022.06, Undergraduate, Software Engineering College, East China Normal University.
 - 2015.09 - 2018.06, Siyang Middle School, Suqian.
 
-Teaching Experience
+📚 Teaching Experience
 ======
 
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp)
 - Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring
 
-Invited Talks
+🎙 Invited Talks
 ======
 
 - PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai PingCAP, 2022 Winter
