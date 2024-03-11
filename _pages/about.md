@@ -33,14 +33,20 @@ Selected Awards
 
 Publications
 ======
-- **Hu ZR**, Weng SY, Wang QS, Yu R, Xu JK, Zhang R, Zhou X. Data Sharing Model and Optimization Strategies in HTAP Database Systems. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, CCF-A CN), 2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
-- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``ICDE`` (Computer Science, CCF-A), 2024. [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf), [Code](https://github.com/DBHammer/Mirage).
-- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, CCF-A CN), 2024. [PDF](). Under Review.
+- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``ICDE`` (Computer Science, **CCF-A**), 2024,  [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
+- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2024. [PDF](). Under Review.
 - Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (Economics, None), 2024. [PDF]().
-<!-- - **Zirui Hu**, Qingshuai Wang, Vodka: Fairly Benchmarking HTAP Systems on Demand. ``Preprint`` 2024. [PDF](). -->
+- **Hu ZR**, Weng SY, Wang QS, Yu R, Xu JK, Zhang R, Zhou X. Data Sharing Model and Optimization Strategies in HTAP Database Systems. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
+- <!-- - **Zirui Hu**, Qingshuai Wang, Vodka: Fairly Benchmarking HTAP Systems on Demand. ``Preprint`` 2024. [PDF](). -->
 
 Teaching Experience
 ======
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp)
 - PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai PingCAP, 2022 Winter
 - Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring
+
+<!-- Projects
+======
+- AntGroup OceanBase MiniOB：A Simplified-version DBMS of OceanBase [![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+- VLDB Summer School 2022: A Learning-based Query Optimizer [![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+- A PaaS Trading Platform based on Zero-knowledge Proof and Blockchain  [![](https://img.shields.io/github/stars/alittlehorse/osprey?style=social&label=Code+Stars)](https://github.com/alittlehorse/osprey) -->
