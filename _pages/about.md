@@ -33,9 +33,10 @@ My research focuses on database kernel technology, especially for OLAP query opt
 📝 Publications
 ======
 - Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``ICDE`` (Computer Science, **CCF-A**), 2024,  [PDF](https://github.com/DBHammer/Mirage/blob/2023-correct/Mirage-Tech-Report.pdf).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2024. [PDF](). Under Review.
-- Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (Economics, None), 2024. [PDF](https://rdcu.be/dAUiF).
 - Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. ``DASFAA`` (Computer Science, **CCF-B**), 2024. [PDF]().
+- Weng SY, Yu R, Wang QS, **Hu ZR**, Ni L, Zhang R, Zhou X, Zhou AY, Xu QQ, Yang CH, Liu W, Yang PF. The Benchmarking Ability of HTAP Benchmarks. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2024. [PDF]().
+- Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (Economics, None), 2024. [PDF](https://rdcu.be/dAUiF).
+- **Zirui Hu**, Qingshuai Wang, etl. Vodka: Fairly Benchmarking HTAP Systems on Demand. 2024. [PDF](). (Working On).
 - **Hu ZR**, Weng SY, Wang QS, Yu R, Xu JK, Zhang R, Zhou X. Data Sharing Model and Optimization Strategies in HTAP Database Systems. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 
 <!-- - **Zirui Hu**, Qingshuai Wang, etl. Vodka: Fairly Benchmarking HTAP Systems on Demand. ``Working On`` 2024. [PDF](). -->
