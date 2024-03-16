@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Translate"
+    url: /about-zn/
+
   - title: "Publications"
     url: /publications/
 
@@ -12,11 +15,9 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Translate"
-    url: /about-zn/
+  # - title: "CV"
+  #   url: /cv/
+
