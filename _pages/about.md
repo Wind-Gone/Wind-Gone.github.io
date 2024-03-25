@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hu Zirui 胡梓锐 (2001.02), received his B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
+I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
 I am currently pursuing my doctorate degree in the [DBHammer](https://dbhammer.github.io/) research group, under the guidance of Professor [Zhang Rong](https://dblp.org/pid/13/5366-2.html) at [Data Science and Engineering College](http://dase.ecnu.edu.cn/) of East China Normal University (2022 - 2027).
 
 My research focuses on database kernel technology, especially for OLAP query optimization[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper), AI4DB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper), and benchmark design. You can find more information about me in [Zhihu](https://www.zhihu.com/people/hhhuhuh).
