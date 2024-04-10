@@ -36,9 +36,9 @@ redirect_from:
 - Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. ``DASFAA`` (计算机科学, **CCF-B 国际**), 2024. [PDF]().
 <!-- - 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP 评测基准的评测能力分析. ``软件学报`` (计算机科学, **CCF-A 国内**), 2024. [PDF](). -->
 - Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (金融), 2024. [PDF](https://rdcu.be/dAUiF).
-- **Zirui Hu**, Qingshuai Wang, etl. Vodka: Fairly Benchmarking HTAP Systems on Demand. 2024. [PDF](). (修改中).
+- **Zirui Hu**, Qingshuai Wang, et al. Vodka: Fairly Benchmarking HTAP Systems on Demand. 2024. [PDF](). (修改中).
+- <!-- - **Zirui Hu**, Qingshuai Wang, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (已提交). -->
 - **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜. HTAP 数据库系统数据共享模型和优化策略. ``软件学报`` (计算机科学, **CCF-A 国内**), 2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
-<!-- - - Hao Li, Qingshuai Wang, **Zirui Hu**, Rong Zhang. Touchstone+: Query-Aware Database Generator for Matching Operator. ``DASFFAA`` (计算机科学, **CCF-B** 国际), 2024, [PDF](). (评审中) -->
 
 
 📖 教育背景
@@ -52,10 +52,10 @@ redirect_from:
 📚 教学经历
 ======
 
-- 自然语言处理课程助教 @ 上海华东师范大学数据科学与工程学院, 2024 春[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp)
-- 支教教师夏令营 @ 江西上饶灵犀灵樟小学, 2019 春
+- 自然语言处理课程助教 @ 上海华东师范大学数据科学与工程学院, 2024 春[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
+- 支教教师夏令营 @ 江西上饶灵犀灵樟小学, 2019 春.
 
 🎙 受邀讲座
 ======
-
-- 平凯星辰 TiDB 人才计划导师(主题: 基于学习的基数预估/代价计算) @ 上海, 2022 冬
+- ICDE (主题: Mirage: Generating Enormous Databases for Complex Workloads) @ 乌特勒支 荷兰, 2024 夏.
+- 平凯星辰 TiDB 人才计划导师(主题: 基于学习的基数预估/代价计算) @ 上海, 2022 冬.
