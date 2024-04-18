@@ -32,8 +32,8 @@ redirect_from:
 
 📝 论文
 ======
-- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``ICDE`` (计算机科学, **CCF-A 国际**), 2024, [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. ``DASFAA`` (计算机科学, **CCF-B 国际**), 2024. [PDF]().
+- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``IEEE International Conference on Data Engineering (ICDE)`` (计算机科学, **CCF-A 国际**), 2024, [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
+- Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. ``Database Systems for Advanced Applications (DASFAA)`` (计算机科学, **CCF-B 国际**), 2024. [PDF]().
 <!-- - 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP 评测基准的评测能力分析. ``软件学报`` (计算机科学, **CCF-A 国内**), 2024. [PDF](). -->
 - Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (金融), 2024. [PDF](https://rdcu.be/dAUiF).
 - **Zirui Hu**, Qingshuai Wang, et al. Vodka: Fairly Benchmarking HTAP Systems on Demand. 2024. [PDF](). (修改中).
