@@ -44,7 +44,7 @@ My research focuses on database kernel technology, especially for OLAP query opt
 📖 Educations
 ======
 
-- 2022.09 - Now, Data Science and Engineering College, East China Normal University.
+- 2022.09 - Now, PhD, Data Science and Engineering College, East China Normal University.
 - 2019.09 - 2022.06, Undergraduate, Chinese Language and Literature College, East China Normal University.
 - 2018.09 - 2022.06, Undergraduate, Software Engineering College, East China Normal University.
 - 2015.09 - 2018.06, Siyang Middle School, Suqian.
