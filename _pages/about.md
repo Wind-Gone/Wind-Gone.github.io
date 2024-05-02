@@ -19,7 +19,7 @@ My research focuses on database kernel technology, especially for OLAP query opt
 3. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
 4. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: 智能时代的数据系统)
 5. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-6. 2022 [**11th place** in the Preliminary Round of the TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
+6. 2022 [**11th place** in the Preliminary Round of the PingCAP TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
 7. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 8. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
 9. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
@@ -58,4 +58,4 @@ My research focuses on database kernel technology, especially for OLAP query opt
 🎙 Invited Talks
 ======
 - IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads) @ Utrecht Netherland, 2024 Summer. 
-- PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai PingCAP, 2022 Winter.
+- PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai China, 2022 Winter.

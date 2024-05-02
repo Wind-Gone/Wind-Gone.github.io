@@ -9,7 +9,7 @@ redirect_from:
 胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中文系](https://zhwx.ecnu.edu.cn/)获得学士学位。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位, 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
-我的研究方向主要包括数据库内核技术、OLAP查询优化[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)、AI4DB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)和基准测试设计。您可以在[知乎](https://www.zhihu.com/people/hhhuhuh)上找到我的更多信息。
+我的研究方向主要包括数据库内核技术、数据库分析型处理引擎(OLAP)查询优化[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)、数据库智能化(AI4DB)[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)和基准测试设计。您可以在[知乎](https://www.zhihu.com/people/hhhuhuh)上找到我的更多信息。
 
 
 🎖 已获部分奖项
@@ -18,14 +18,14 @@ redirect_from:
 2. 2023 [盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 3. 2023 九坤投资订单撮合系统设计大赛**前20** 
 4. 2023 华东师范大学数据科学与工程学院暑期学校**优秀学员** (主题: 智能时代的数据系统)
-5. 2022 [第一届 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-6. 2022 [TiDB 黑客松大赛初赛**第 11 名**](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
-7. 2022 [VLDB 暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+5. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+6. 2022 [平凯星辰 TiDB 数据库黑客松大赛初赛**第 11 名**](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
+7. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 8. 2022 长三角金融科技挑战赛**大学生创新奖**
 9. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
 10. 2021 中国计算机设计大赛**全国二等奖**
-11. 2021 “汇创青春”上海市大学生文化创意作品大赛**二等奖**
-12. 2020 字节跳动飞书训练营**优秀营员**
+11. 2021 "汇创青春"上海市大学生文化创意作品大赛**二等奖**
+12. 2020 字节跳动飞书前端训练营**优秀营员**
 13. 2019 华东师范大学外研社英语演讲比赛**三等奖**
 14. 2019-2021 华东师范大学**一等奖学金**
 15. 2018-2021 华东师范大学软件工程学院**优秀学生**
@@ -58,5 +58,5 @@ redirect_from:
 
 🎙 受邀讲座
 ======
-- ICDE (主题: Mirage: Generating Enormous Databases for Complex Workloads) @ 乌特勒支 荷兰, 2024 夏.
-- 平凯星辰 TiDB 人才计划导师(主题: 基于学习的基数预估/代价计算) @ 上海, 2022 冬.
+- ICDE (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT]()) @ 乌特勒支 荷兰, 2024 夏.
+- 平凯星辰 TiDB 人才计划导师(主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
