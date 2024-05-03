@@ -36,7 +36,7 @@ My research focuses on database kernel technology, especially for OLAP query opt
 - Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. ``Database Systems for Advanced Applications (DASFAA)`` (Computer Science, **CCF-B**), 2024. [PDF]().
 - Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (Economics, None), 2024. [PDF](https://rdcu.be/dAUiF).
 - **Zirui Hu**, Qingshuai Wang, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (Submitted).
-- **Zirui Hu**, Qingshuai Wang, et al. Vodka: Fairly Benchmarking HTAP Systems on Demand. 2024. [PDF]() (Revising).
+- **Zirui Hu**, Qingshuai Wang, et al. Vodka: Rethink Benchmark Philosophy in HTAP Systems. 2024. [PDF]() (Revising).
 - **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou. Data Sharing Model and Optimization Strategies in HTAP Database Systems. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 <!-- - **Zirui Hu**, Qingshuai Wang, etl. Vodka: Fairly Benchmarking HTAP Systems on Demand. ``Working On`` 2024. [PDF](). -->
 <!-- Rong Zhang, Chengcheng Yang, Xuan Zhou, Aoying Zhou, Chuanhui Yang, Quanqing Yang -->
