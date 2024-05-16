@@ -32,7 +32,7 @@ redirect_from:
 
 📝 论文
 ======
-- 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, and 周傲英. Mirage: Generating Enormous Databases for Complex Workloads. ``IEEE International Conference on Data Engineering (ICDE)`` (计算机科学, **CCF-A 国际**), 2024, [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
+- 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英. Mirage: Generating Enormous Databases for Complex Workloads. ``IEEE International Conference on Data Engineering (ICDE)`` (计算机科学, **CCF-A 国际**), 2024, [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜. Touchstone+ : Query Aware Database Generation for Match Operators. ``Database Systems for Advanced Applications (DASFAA)`` (计算机科学, **CCF-B 国际**), 2024. [PDF]().
 - 周胜娣, 蓝发钦, **胡梓锐**, 刘泳婷. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (金融), 2024. [PDF](https://rdcu.be/dAUiF).
 - 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP 评测基准的评测能力分析. ``软件学报`` (计算机科学, **CCF-A 国内**), 2024. [PDF]().
