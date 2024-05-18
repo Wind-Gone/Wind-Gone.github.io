@@ -32,8 +32,8 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 📝 Publications
 ======
-- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. ``IEEE International Conference on Data Engineering (ICDE)`` (Computer Science, **CCF-A**), 2024,  [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. ``Database Systems for Advanced Applications (DASFAA)`` (Computer Science, **CCF-B**), 2024. [PDF]().
+- Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou. Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering (``ICDE``) (Computer Science, **CCF-A**), 2024,  [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
+- Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou. Touchstone+ : Query Aware Database Generation for Match Operators. Database Systems for Advanced Applications (``DASFAA``) (Computer Science, **CCF-B**), 2024. [PDF]().
 - Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (Economics, None), 2024. [PDF](https://rdcu.be/dAUiF).
 - Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang. The Benchmarking Ability of HTAP Benchmarks. ``Ruan Jian Xue Bao/Journal of Software`` (Computer Science, **CCF-A CN**), 2024. [PDF]().
 - **Zirui Hu**, Qingshuai Wang, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (Submitted).
@@ -58,5 +58,5 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 🎙 Invited Talks
 ======
-- IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads) @ Utrecht Netherland, 2024 Summer. 
-- PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai China, 2022 Winter.
+- IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ Utrecht Netherland, 2024 Summer. 
+- PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning, [PPT]()) @ Shanghai China, 2022 Winter.
