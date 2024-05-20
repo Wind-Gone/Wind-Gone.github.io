@@ -35,7 +35,7 @@ redirect_from:
 - 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英. Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering (``ICDE``) (计算机科学, **CCF-A 国际**), 2024, [PDF](https://ieeecps.org/files/5PaGiJbkZ2aHTM4ikja9GH).  [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜. Touchstone+ : Query Aware Database Generation for Match Operators. Database Systems for Advanced Applications (``DASFAA``) (计算机科学, **CCF-B 国际**), 2024. [PDF]().
 - 周胜娣, 蓝发钦, **胡梓锐**, 刘泳婷. Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. ``Digital Economy and Sustainable Development`` (金融), 2024. [PDF](https://rdcu.be/dAUiF).
-- 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP 评测基准的评测能力分析. ``软件学报`` (计算机科学, **CCF-A 国内**), 2024. [PDF]().
+- 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP评测基准的评测能力综述. ``软件学报`` (计算机科学, **CCF-A 国内**), 2024. [PDF]().
 - **胡梓锐**, 王清帅, et al. Vodka: Rethink Benchmark Philosophy in HTAP Systems. 2024. [PDF](). (修改中).
 - **胡梓锐**, 王清帅, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (已提交).
 - **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜. HTAP 数据库系统数据共享模型和优化策略. ``软件学报`` (计算机科学, **CCF-A 国内**), 2023. [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
