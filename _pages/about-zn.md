@@ -7,7 +7,7 @@ redirect_from:
   - /about-zn.html
 ---
 胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中文系](https://zhwx.ecnu.edu.cn/)获得学士学位。
-目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位, 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
+目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位 (2022.09 - 2027.06), 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
 我的研究方向主要包括数据库内核技术、数据库分析型处理引擎(OLAP)查询优化[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)、数据库智能化(AI4DB)[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)和基准测试设计。您可以在[知乎](https://www.zhihu.com/people/hhhuhuh)上找到我的更多信息。
 
