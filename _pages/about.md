@@ -59,3 +59,13 @@ My research focuses on database kernel technology, especially for OLAP query opt
 ======
 - IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ Utrecht Netherland, 2024 Summer. 
 - PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning, [PPT]()) @ Shanghai China, 2022 Winter.
+
+📑 Interesting Paper Sharing
+======
+1. Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing. 2021 OSDI, Theme: HTAP System, [PDF](https://www.usenix.org/system/files/osdi21-shen.pdf), [PPT](https://drive.google.com/file/d/1i6pmXBc1WdhZRkaizX-6G-WOZlElf-VU/view).
+2. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, Theme: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
+3. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, Theme: AI4Query Optimizer, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
+4. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
+5. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
+
+> Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated!

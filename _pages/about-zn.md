@@ -60,3 +60,13 @@ redirect_from:
 ======
 - IEEE International Conference on Data Engineering (ICDE) (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ 乌特勒支 荷兰, 2024 夏.
 - 平凯星辰 TiDB 人才计划导师 (主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
+
+📑 有趣的论文分享
+======
+1. Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing. 2021 OSDI, 主题: HTAP 系统, [PDF](https://www.usenix.org/system/files/osdi21-shen.pdf), [PPT](https://drive.google.com/file/d/1i6pmXBc1WdhZRkaizX-6G-WOZlElf-VU/view).
+2. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, 主题: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
+3. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, 主题: AI4查询优化器, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
+4. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, 主题: Bug检测, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
+5. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: Bug检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
+
+> 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！
