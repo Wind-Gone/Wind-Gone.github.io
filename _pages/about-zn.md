@@ -68,5 +68,4 @@ redirect_from:
 3. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, 主题: AI4查询优化器, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
 4. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, 主题: Bug检测, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
 5. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: Bug检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
-
 > 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！
