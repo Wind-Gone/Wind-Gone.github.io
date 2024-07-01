@@ -63,8 +63,10 @@ My research focuses on database kernel technology, especially for OLAP query opt
 📑 Interesting Paper Sharing
 ======
 1. Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing. 2021 OSDI, Theme: HTAP System, [PDF](https://www.usenix.org/system/files/osdi21-shen.pdf), [PPT](https://drive.google.com/file/d/1i6pmXBc1WdhZRkaizX-6G-WOZlElf-VU/view).
-2. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, Theme: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
-3. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, Theme: AI4Query Optimizer, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
-4. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
-5. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
+2. Are We Ready For Learned Cardinality Estimation? 2021 VLDB, Theme: AI4Cardinality Estimation, [PDF](https://www.vldb.org/pvldb/vol14/p1640-wang.pdf), [PPT](https://drive.google.com/file/d/1F8twJ03I1OLef80c4g5oe5yeZqe2iFKX/view?usp=drive_open&edoph=true).
+3. Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction. 2022 VLDB, Theme: AI4Cost Model, [PDF](https://dl.acm.org/doi/abs/10.14778/3551793.3551799), [PPT](https://drive.google.com/file/d/1_q--_4vFsc5N4BPDjWshckdGvEW4j4xE/view).
+4. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, Theme: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
+5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, Theme: AI4Query Optimizer, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
+6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
+7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
 > Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated!

@@ -64,8 +64,10 @@ redirect_from:
 📑 有趣的论文分享
 ======
 1. Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing. 2021 OSDI, 主题: HTAP 系统, [PDF](https://www.usenix.org/system/files/osdi21-shen.pdf), [PPT](https://drive.google.com/file/d/1i6pmXBc1WdhZRkaizX-6G-WOZlElf-VU/view).
-2. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, 主题: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
-3. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, 主题: AI4查询优化器, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
-4. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, 主题: Bug检测, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
-5. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: Bug检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
+2. Are We Ready For Learned Cardinality Estimation? 2021 VLDB, 主题: AI4基数预估, [PDF](https://www.vldb.org/pvldb/vol14/p1640-wang.pdf), [PPT](https://drive.google.com/file/d/1F8twJ03I1OLef80c4g5oe5yeZqe2iFKX/view?usp=drive_open&edoph=true).
+3. Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction. 2022 VLDB, 主题: AI4代价模型, [PDF](https://dl.acm.org/doi/abs/10.14778/3551793.3551799), [PPT](https://drive.google.com/file/d/1_q--_4vFsc5N4BPDjWshckdGvEW4j4xE/view).
+4. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, 主题: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
+5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, 主题: AI4查询优化器, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
+6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, 主题: Bug检测, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
+7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: Bug检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
 > 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！
