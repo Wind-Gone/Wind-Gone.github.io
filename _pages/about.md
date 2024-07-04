@@ -51,14 +51,13 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 📚 Teaching Experience
 ======
-
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
 - Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring.
 
 🎙 Invited Talks
 ======
 - IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ Utrecht Netherland, 2024 Summer. 
-- PingCAP TiDB Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning, [PPT]()) @ Shanghai China, 2022 Winter.
+- PingCAP TiDB Talent Plan Tutor (Theme: Learned-based Cardinality/Cost Estimation, [PPT](None)) @ Shanghai China, 2022 Winter.
 
 📑 Interesting Paper Sharing
 ======
