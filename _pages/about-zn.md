@@ -23,7 +23,7 @@ redirect_from:
 7. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 8. 2022 长三角金融科技挑战赛**大学生创新奖**
 9. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
-10. 2021 中国计算机设计大赛**全国二等奖**
+10. 2021 中国大学生计算机设计大赛**全国二等奖**
 11. 2021 "汇创青春"上海市大学生文化创意作品大赛**二等奖**
 12. 2020 字节跳动飞书前端训练营**优秀营员**
 13. 2019 华东师范大学外研社英语演讲比赛**三等奖**
