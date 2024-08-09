@@ -68,4 +68,4 @@ My research focuses on database kernel technology, especially for OLAP query opt
 5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, Theme: AI4Query Optimizer, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
 6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
 7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
-> Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated!
+> Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion).
