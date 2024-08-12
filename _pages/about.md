@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zirui Hu"
+title: "💁 Zirui Hu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
