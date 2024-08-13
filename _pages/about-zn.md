@@ -6,7 +6,7 @@ redirect_from:
   - /about-zn/
   - /about-zn.html
 ---
-胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中文系](https://zhwx.ecnu.edu.cn/)获得学士学位。
+胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位和辅修学士学位。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位 (2022.09 - 2027.06), 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
 我的研究方向主要包括数据库内核技术、数据库分析型处理引擎(OLAP)查询优化[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)、数据库智能化(AI4DB)[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)和基准测试设计。
@@ -46,7 +46,7 @@ redirect_from:
 ======
 
 - 2022.09 - 至今, 博士在读, 数据科学与工程学院(数据科学与大数据技术专业), 华东师范大学.
-- 2019.09 - 2022.06, 本科, 中文系(汉语言文学专业), 华东师范大学.
+- 2019.09 - 2022.06, 本科, 中文系(汉语言文学专业辅修), 华东师范大学.
 - 2018.09 - 2022.06, 本科, 软件工程学院(软件工程专业), 华东师范大学.
 - 2015.09 - 2018.06, 泗阳中学, 宿迁.
 
