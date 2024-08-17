@@ -33,7 +33,7 @@ redirect_from:
 📝 论文
 ======
 - `ICDE'24` Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering, 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英 (计算机科学, **CCF-A 国际**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- `DASFAA'23` Touchstone+ : Query Aware Database Generation for Match Operators, 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 国际**), [PDF](https://www.dasfaa2024.org/research-papers/).
+- `DASFAA'24` Touchstone+ : Query Aware Database Generation for Match Operators, 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 国际**), [PDF](https://www.dasfaa2024.org/research-papers/).
 - ``Digital Economy and Sustainable Development'24`` Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning, 周胜娣, 蓝发钦, **胡梓锐**, 刘泳廷 (金融), [PDF](https://rdcu.be/dAUiF).
 - ``软件学报'24`` HTAP评测基准的评测能力综述, 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
 - ``软件学报'23`` HTAP 数据库系统数据共享模型和优化策略, **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
