@@ -32,11 +32,11 @@ redirect_from:
 
 📝 论文
 ======
-- `ICDE'24` Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering, 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英 (计算机科学, **CCF-A 国际**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- `DASFAA'24` Touchstone+ : Query Aware Database Generation for Match Operators, 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 国际**), [PDF](https://www.dasfaa2024.org/research-papers/).
-- ``Digital Economy and Sustainable Development'24`` Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning, 周胜娣, 蓝发钦, **胡梓锐**, 刘泳廷 (金融), [PDF](https://rdcu.be/dAUiF).
-- ``软件学报'24`` HTAP评测基准的评测能力综述, 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
-- ``软件学报'23`` HTAP 数据库系统数据共享模型和优化策略, **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
+- `ICDE'24` Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英 (计算机科学, **CCF-A 国际**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
+- `DASFAA'24` Touchstone+ : Query Aware Database Generation for Match Operators. 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 国际**), [PDF](https://www.dasfaa2024.org/research-papers/).
+- ``Digital Economy and Sustainable Development'24`` Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. 周胜娣, 蓝发钦, **胡梓锐**, 刘泳廷 (金融), [PDF](https://rdcu.be/dAUiF).
+- ``软件学报'24`` HTAP评测基准的评测能力综述. 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
+- ``软件学报'23`` HTAP 数据库系统数据共享模型和优化策略. **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
 <!-- - **胡梓锐**, 王清帅, et al. Vodka: Rethink Benchmark Philosophy in HTAP Systems. 2024. [PDF](). (修改中). -->
 <!-- - **胡梓锐**, 王清帅, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (已提交). -->
@@ -70,4 +70,4 @@ redirect_from:
 5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, 主题: AI4查询优化器, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
 6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, 主题: Bug检测, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
 7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: Bug检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
-> 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！更多的内容存放在 DBHammer 实验室的[仓库](https://github.com/DBHammer/PaperDiscussion).
+> 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！更多的内容存放在 DBHammer 实验室的[仓库](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
