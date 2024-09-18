@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am currently pursuing my doctorate degree in the [DBHammer](https://dbhammer.github.io/) research group, under the guidance of Professor [Zhang Rong](https://dblp.org/pid/13/5366-2.html) at [Data Science and Engineering College](http://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
+I am currently pursuing my doctorate degree in the [DBHammer](https://dbhammer.github.io/) research group, advised by Professor [Zhang Rong](https://dblp.org/pid/13/5366-2.html) at [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
 
 My research focuses on database kernel technology, especially for OLAP query optimization[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper), AI4DB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper), and benchmark design.
 
@@ -32,11 +32,26 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 📝 Publications
 ======
-- `ICDE'24` Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- `DASFAA'24` Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B**), [PDF](https://www.dasfaa2024.org/research-papers/).
-- ``Digital Economy and Sustainable Development'24`` Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, None). [PDF](https://rdcu.be/dAUiF).
-- ``Journal of Software'24`` The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
-- ``Journal of Software'23`` Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
+- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">ICDE'24</div> 
+  <div style="background-color:#00CD00; color: white; padding: 0 2px; display: inline;">Conference</div>
+  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>  
+  Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
+- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">DASFAA'24</div> 
+  <div style="background-color:#00CD00; color: white; padding: 0 2px; display: inline;">Conference</div>
+  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div> 
+  Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B**), [PDF](https://www.dasfaa2024.org/research-papers/).
+- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">Digital Economy and Sustainable Development'24</div> 
+  <div style="background-color:#ff3333; color: white; padding: 0 2px; display: inline;">Journal</div> 
+  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, None). [PDF](https://rdcu.be/dAUiF).
+- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">Journal of Software'24</div> 
+  <div style="background-color:#ff3333; color: white; padding: 0 2px; display: inline;">Journal</div>
+  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
+- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">Journal of Software'23</div> 
+  <div style="background-color:#ff3333; color: white; padding: 0 2px; display: inline;">Journal</div>
+  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
 <!-- - **Zirui Hu**, Qingshuai Wang, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (Submitted). -->
 <!-- - **Zirui Hu**, Qingshuai Wang, et al. Vodka: Rethink Benchmark Philosophy in HTAP Systems. 2024. [PDF]() (Revising). -->
