@@ -26,9 +26,10 @@ My research focuses on database kernel technology, especially for OLAP query opt
 10. 2021 **Second prize** in China College Student Computer Design Competition
 11. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
 12. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
-13. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
-14. 2019-2021 **First-Class Scholarship** in ECNU
-15. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
+13. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
+14. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
+15. 2019-2021 **First-Class Scholarship** in ECNU
+16. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
 
 📝 Publications
 ======
@@ -81,6 +82,8 @@ My research focuses on database kernel technology, especially for OLAP query opt
 3. Zero-Shot Cost Models for Out-of-the-box Learned Cost Prediction. 2022 VLDB, Theme: AI4Cost Model, [PDF](https://dl.acm.org/doi/abs/10.14778/3551793.3551799), [PPT](https://drive.google.com/file/d/1_q--_4vFsc5N4BPDjWshckdGvEW4j4xE/view).
 4. Diva: Making MVCC Systems HTAP-Friendly. 2022 SIGMOD, Theme: HTAP & MVCC, [PDF](https://dl.acm.org/doi/10.1145/3514221.3526135), [PPT](https://drive.google.com/file/d/1C0EB9mpynqDDtqmoGWTxvhzhEDk4QO8r/view).
 5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, Theme: AI4Query Optimizer, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
-6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
-7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
+6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Functional Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
+7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Functional Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
+8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICDE, Theme: Performance Bug Detection, [PDF](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
+
 > Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
