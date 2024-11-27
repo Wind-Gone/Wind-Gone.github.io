@@ -33,29 +33,30 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 📝 Publications
 ======
-- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">ICDE'24</div> 
+- <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
   <div style="background-color:#00CD00; color: white; padding: 0 2px; display: inline;">Conference</div>
-  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>  
+  <div style="background-color:#FFA07A; color: white; padding: 0 2px; display: inline;">ICDE'24</div> 
   Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">DASFAA'24</div> 
-  <div style="background-color:#00CD00; color: white; padding: 0 2px; display: inline;">Conference</div>
-  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div> 
+- <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  <div style="background-color:#00CD00; color: white; padding: 0 2px; display: inline;">Conference</div> 
+  <div style="background-color:#EE82EE; color: white; padding: 0 2px; display: inline;">DASFAA'24</div> 
   Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B**), [PDF](https://www.dasfaa2024.org/research-papers/).
-- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">Digital Economy and Sustainable Development'24</div> 
+- <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
   <div style="background-color:#ff3333; color: white; padding: 0 2px; display: inline;">Journal</div> 
-  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  <div style="background-color:#00FA9A; color: white; padding: 0 2px; display: inline;">Digital Economy and Sustainable Development'24</div> 
   Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, None). [PDF](https://rdcu.be/dAUiF).
-- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">Journal of Software'24</div> 
+- <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
   <div style="background-color:#ff3333; color: white; padding: 0 2px; display: inline;">Journal</div>
-  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  <div style="background-color:#FF69B4; color: white; padding: 0 2px; display: inline;">Journal of Software'24</div> 
   The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
-- <div style="background-color:#0b5394; color: white; padding: 0 2px; display: inline;">Journal of Software'23</div> 
+- <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
   <div style="background-color:#ff3333; color: white; padding: 0 2px; display: inline;">Journal</div>
-  <div style="background-color:#FFD700; color: white; padding: 0 2px; display: inline;">Long Paper</div>
+  <div style="background-color:#FF69B4; color: white; padding: 0 2px; display: inline;">Journal of Software'23</div> 
   Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
-<!-- - **Zirui Hu**, Qingshuai Wang, et al. Artemis: A Comprehensive Benchmark Suite for Cardinality Estimation on Demand. 2024. [PDF]() (Submitted). -->
-<!-- - **Zirui Hu**, Qingshuai Wang, et al. Vodka: Rethink Benchmark Philosophy in HTAP Systems. 2024. [PDF]() (Revising). -->
+<!-- - **Zirui Hu**, Qingshuai Wang, et al. Artemis. 2024. [PDF]() (Submitted). -->
+<!-- - Wenwen Sun, Zhicheng Pan, **Zirui Hu**, et al. Rabbit. 2024. [PDF]() (Submitted). -->
+<!-- - **Zirui Hu**, Qingshuai Wang, et al. Vodka. 2024. [PDF]() (Revising). -->
 
 📖 Educations
 ======
