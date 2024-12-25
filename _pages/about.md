@@ -77,4 +77,6 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 > Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
 
+🪐 Kind Visitors
+======
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Dup0rR8Mp_h1e9A7R5mUk_GtxiL493RRyoRd4KyTeVs"></script>
