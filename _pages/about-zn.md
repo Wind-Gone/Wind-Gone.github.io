@@ -72,3 +72,8 @@ redirect_from:
 8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: 性能Bug检测, [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 
 > 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！更多的内容存放在 DBHammer 实验室的[仓库](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
+
+
+🪐 亲爱的游客
+======
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Dup0rR8Mp_h1e9A7R5mUk_GtxiL493RRyoRd4KyTeVs"></script>
