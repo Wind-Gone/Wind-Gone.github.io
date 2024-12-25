@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am currently pursuing my doctorate degree in the [DBHammer](https://dbhammer.github.io/) research group, advised by Professor [Zhang Rong](https://dblp.org/pid/13/5366-2.html) and Research Professor [Yang ChengCheng](https://scholar.google.com/citations?user=0PSlsJcAAAAJ&hl) at [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
+I am currently pursuing my doctorate degree in the [DBHammer](https://dbhammer.github.io/) research group, advised by Professor [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Professor Xuan Zhou, Peng Cai and Research Professor [ChengCheng Yang](https://scholar.google.com/citations?user=0PSlsJcAAAAJ&hl) at [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
 
 My research focuses on database kernel technology, especially for OLAP query optimization[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper), AI4DB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper), and benchmark design.
 
@@ -76,3 +76,5 @@ My research focuses on database kernel technology, especially for OLAP query opt
 8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: Performance Bug Detection, [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 
 > Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Dup0rR8Mp_h1e9A7R5mUk_GtxiL493RRyoRd4KyTeVs"></script>
