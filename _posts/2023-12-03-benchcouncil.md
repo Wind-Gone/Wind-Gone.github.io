@@ -3,9 +3,7 @@ title: '2023 BenchCouncil 海南三亚'
 date: 2023-12-03
 permalink: /posts/2023/12/post1/
 tags:
-  - research
-  - trip
-  - 2023
+  - research trip
 ---
 
 人生第一次坐飞机，当飞机腾飞的一刻让我倍感奇妙，说不定经常坐飞机的人会更习惯过山车的刺激感。

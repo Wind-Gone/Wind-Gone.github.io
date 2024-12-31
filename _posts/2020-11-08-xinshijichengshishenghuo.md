@@ -3,8 +3,6 @@ title: '2020 论新世纪文学中的城市日常生活'
 date: 2020-11-08
 permalink: /posts/2020/11/post1/
 tags:
-  - 2020
-  - literature
   - 闲隙碎笔
 ---
 
