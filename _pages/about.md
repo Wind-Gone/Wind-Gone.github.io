@@ -40,6 +40,10 @@ My research focuses on database kernel technology, especially for OLAP query opt
 - <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
+  - SIGMOD Demo (Reviewing)
+  - Rabbit (Reviewing)
+  - Vodka (Reviewing)
+  - Panacea (WIP)
 <!-- - Wenwen Sun, Zhicheng Pan, **Zirui Hu**, et al. Rabbit. 2025. [PDF]() (Submitted). -->
 <!-- - **Zirui Hu**, et al. Vodka. 2025. [PDF]() (Revising). -->
 <!-- - Xuhua Huang, **Zirui Hu**, et al. Demonstration of Mirage. 2025. [PDF]() (Revising). -->
