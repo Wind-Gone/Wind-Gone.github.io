@@ -83,4 +83,4 @@ My research focuses on database kernel technology, especially for OLAP query opt
 
 🪐 Kind Visitors
 ======
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Dup0rR8Mp_h1e9A7R5mUk_GtxiL493RRyoRd4KyTeVs"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R47-JnxsWBwEsNz1_n_3PPRXM8Mg83YBvPLcVitQYkk"></script>
