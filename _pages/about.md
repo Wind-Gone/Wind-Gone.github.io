@@ -34,6 +34,7 @@ My research focuses on database kernel technology, especially for OLAP query opt
 📝 Publications
 ======
 - <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A**), [PDF]().
+- <span style="color: #FF4500; font-weight: bold;">[ICDE'25 Review]</span> Rabbit. Wenwen Sun, Zhicheng Pan, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A**), [PDF]().
 - <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B**), [PDF](https://www.dasfaa2024.org/research-papers/).
 - <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, None), [PDF](https://rdcu.be/dAUiF).
@@ -41,15 +42,14 @@ My research focuses on database kernel technology, especially for OLAP query opt
 - <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
   - SIGMOD Demo (Reviewing)
-  - Rabbit (Reviewing)
   - Vodka (Reviewing)
   - Panacea (WIP)
-<!-- - Wenwen Sun, Zhicheng Pan, **Zirui Hu**, et al. Rabbit. 2025. [PDF]() (Submitted). -->
+
+<!-- A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**), [PDF](). -->
 <!-- - **Zirui Hu**, et al. Vodka. 2025. [PDF]() (Revising). -->
-<!-- - Xuhua Huang, **Zirui Hu**, et al. Demonstration of Mirage. 2025. [PDF]() (Revising). -->
 <!-- - Siyang Weng, **Zirui Hu** et al. Pisco. 2025. [PDF]() (Revising). -->
-<!-- - **Zirui Hu** et al. Mirage Extension. 2025. [PDF]() (Writing). -->
 <!-- - **Zirui Hu** et al. Panacea. 2025. [PDF]() (Working). -->
+<!-- - **Zirui Hu** et al. Mirage Extension. 2025. [PDF]() (Writing). -->
 
 📖 Educations
 ======
