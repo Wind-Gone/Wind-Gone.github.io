@@ -41,8 +41,8 @@ redirect_from:
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'24]</span> HTAP评测基准的评测能力综述. 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
-  - SIGMOD Demo (Reviewing)
-  - Vodka (Reviewing)
+  - SIGMOD Demo (Under Review)
+  - Vodka (Under Review)
   - Panacea (WIP)
 
 📖 教育背景
