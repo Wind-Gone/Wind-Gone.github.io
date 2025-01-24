@@ -3,8 +3,8 @@ title: "💁 胡梓锐"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about-zn/
-  - /about-zn.html
+  - /about-cn/
+  - /about-cn.html
 ---
 胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位和辅修学士学位。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位 (2022.09 - 2027.06), 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。

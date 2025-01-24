@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Translate-ZN (中文版)"
-    url: /about-zn/
+  - title: "Translate-CN (中文版)"
+    url: /about-cn/
             
   - title: "Blog Posts"
     url: /year-archive/
