@@ -13,8 +13,10 @@ redirect_from:
 
 📝 论文
 ======
+> *所有论文按发表年份降序排列 (#表示共一).*
+
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **胡梓锐**, 张蓉, 杨程程, 周烜, 徐泉清, 杨传辉 (计算机科学, **CCF-A 国际**), [PDF]().
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'25 Review]</span> Rabbit. 孙文文, 潘志诚, **胡梓锐**, 刘宇, 杨程程, 张蓉, 周烜 (计算机科学, **CCF-A 国际**), [PDF]().
+-  <span style="color: #FF4500; font-weight: bold;">[ICDE'25 Review]</span> Rabbit. 孙文文#, 潘志诚#, **胡梓锐**, 刘宇, 杨程程, 张蓉, 周烜 (计算机科学, **CCF-A 国际**), [PDF]().
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英 (计算机科学, **CCF-A 国际**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 国际**), [PDF](https://www.dasfaa2024.org/research-papers/).
 - <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. 周胜娣, 蓝发钦, **胡梓锐**, 刘泳廷 (金融), [PDF](https://rdcu.be/dAUiF).
@@ -62,7 +64,7 @@ redirect_from:
 - IEEE International Conference on Data Engineering (ICDE) (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ 乌特勒支 荷兰, 2024 夏.
 - 平凯星辰 TiDB 人才计划导师 (主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
 
-📑 有趣的论文分享
+📑 组会论文分享
 ======
 1. Retrofitting High Availability Mechanism to Tame Hybrid Transaction/Analytical Processing. 2021 OSDI, 主题: HTAP 系统, [PDF](https://www.usenix.org/system/files/osdi21-shen.pdf), [PPT](https://drive.google.com/file/d/1i6pmXBc1WdhZRkaizX-6G-WOZlElf-VU/view).
 2. Are We Ready For Learned Cardinality Estimation? 2021 VLDB, 主题: AI4基数预估, [PDF](https://www.vldb.org/pvldb/vol14/p1640-wang.pdf), [PPT](https://drive.google.com/file/d/1F8twJ03I1OLef80c4g5oe5yeZqe2iFKX/view?usp=drive_open&edoph=true).
