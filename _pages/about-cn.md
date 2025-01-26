@@ -11,6 +11,8 @@ redirect_from:
 
 我的研究方向主要包括数据库内核技术，特别是数据库分析型处理引擎(OLAP)查询优化[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)、数据库系统智能化(AI4DB)[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)和数据库系统测试。
 
+业余爱好是偶尔打打羽毛球🏸, 篮球🏀, 写写书法🖊和唱歌🎤.
+
 📝 论文
 ======
 > *所有论文按发表年份降序排列 (#表示共一).*
