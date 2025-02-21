@@ -29,6 +29,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - WAITING FOR MORE ...
   - Vodka (Under Review)
   - Panacea (WIP)
+  - Phoenix (WIP)
+  - Mirror (WIP Assisting)
 
 <!-- <span style="color: #7B68EE; font-weight: bold;">[VLDB'25]</span> -->
 <!-- <span style="color: #FF1493; font-weight: bold;">[SIGMOD'25]</span> -->

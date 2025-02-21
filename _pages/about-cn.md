@@ -28,6 +28,8 @@ redirect_from:
 - WAITING FOR MORE ...
   - Vodka (Under Review)
   - Panacea (WIP)
+  - Phoenix (WIP)
+  - Mirror (WIP Assisting)
 
 🎖 已获部分奖项
 ======
