@@ -9,7 +9,9 @@ redirect_from:
 胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位和辅修学士学位。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位 (2022.09 - 2027.06), 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
-我的研究方向主要包括数据库内核技术，特别是数据库分析型处理引擎(OLAP)查询优化[![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)、数据库系统智能化(AI4DB)[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)和数据库系统测试。
+我的研究方向主要包括数据库内核技术，特别是数据库分析型处理引擎(OLAP)查询优化、数据库系统智能化(AI4DB)和数据库系统测试。
+
+我维护了一系列精选的论文列表，涵盖OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)，AIDB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)，以及来自谷歌、亚马逊、阿里巴巴和华为等科技巨头的最新行业实践[![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)，旨在帮助感兴趣的朋友们了解这些领域的最新进展。
 
 业余爱好是偶尔打打羽毛球🏸, 篮球🏀, 写写书法🖊和唱歌🎤.
 
@@ -25,11 +27,11 @@ redirect_from:
 - <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. 周胜娣, 蓝发钦, **胡梓锐**, 刘泳廷 (金融), [PDF](https://rdcu.be/dAUiF).
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'24]</span> HTAP评测基准的评测能力综述. 翁思扬, 俞融, 王清帅, **胡梓锐**, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **胡梓锐**, 翁思扬, 王清帅, 俞融, 徐金凯, 张蓉, 周烜 (计算机科学, **CCF-A 国内**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
-- WAITING FOR MORE ...
-  - Vodka (Under Review)
-  - Panacea (WIP)
-  - Phoenix (WIP)
-  - Mirror (WIP Assisting)
+- 期待更多 ...
+  - Vodka (审稿中)
+  - Panacea (进行中)
+  - Phoenix (进行中)
+  - Mirror (辅助进行中)
 
 🎖 已获部分奖项
 ======
