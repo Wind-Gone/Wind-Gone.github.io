@@ -5,15 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" #  "sunrise", "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum"
-minimal_mistakes_skin2   : "air"
-
 
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Zirui Hu"
+site_theme               : "dark"
 title_separator          : "-"
 name                     : &name "Zirui Hu"
 description              : &description "personal description"
@@ -172,10 +168,12 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - local
   - log
   - node_modules
   - package.json*
@@ -285,29 +283,32 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 
