@@ -6,7 +6,7 @@ redirect_from:
   - /about-cn/
   - /about-cn.html
 ---
-胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](http://www.sei.ecnu.edu.cn/) )和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位和辅修学士学位。
+胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](https://www.sei.ecnu.edu.cn/) )和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位和辅修学士学位。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)的[DBHammer](https://dbhammer.github.io/)实验室攻读博士学位 (2022.09 - 2027.06), 导师为[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
 我的研究方向主要包括数据库内核技术，特别是数据库分析型处理引擎(OLAP)查询优化、数据库系统智能化(AI4DB)和数据库系统测试。
@@ -79,7 +79,7 @@ redirect_from:
 5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, 主题: AI4查询优化器, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
 6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, 主题: 功能Bug检测, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
 7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: 功能Bug检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
-8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: 性能Bug检测, [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
+8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: 性能Bug检测, [PDF](https://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 
 > 请注意，本 ppt 仅限于个人学习所用，如有纰漏还望见谅！更多的内容存放在 DBHammer 实验室的[仓库](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
 

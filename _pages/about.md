@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Third-Year PhD in the [DBHammer](https://dbhammer.github.io/) research group, advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), Research Prof. [ChengCheng Yang](https://ychengc.github.io/), and Prof. [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) and at [School of Data Science and Engineering](http://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
+I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
+I am a Third-Year PhD in the [DBHammer](https://dbhammer.github.io/) research group, advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), Research Prof. [ChengCheng Yang](https://ychengc.github.io/), and Prof. [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) and at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
 
 My research focuses on database kernel technology, especially for OLAP query optimization, AI4DB, and database system testing.
 
@@ -87,7 +87,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 5. Lero: A Learning-to-Rank Query Optimizer. 2023 VLDB, Theme: AI4Query Optimizer, [PDF](https://www.vldb.org/pvldb/vol16/p1466-zhu.pdf), [PPT](https://drive.google.com/file/d/1gwtONL8kD4L1Nqb0r6aTnZ0oXtHi9xvX/view).
 6. Detecting Logic Bugs of Join Optimizations in DBMS. 2023 SIGMOD, Theme: Functional Bug Detection, [PDF](https://dl.acm.org/doi/10.1145/3588909), [PPT](https://drive.google.com/file/d/1Iy5OEq8U8Skr3cst46Sn7gzMcPfhLiPI/view?edoph=true).
 7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, Theme: Functional Bug Detection, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
-8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: Performance Bug Detection, [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
+8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: Performance Bug Detection, [PDF](https://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 
 > Please note, this PowerPoint is for personal learning use only. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
 
