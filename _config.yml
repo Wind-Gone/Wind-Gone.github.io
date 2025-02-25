@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Zirui Hu"
-site_theme               : "dark"
+site_theme               : "default" # dark
 title_separator          : "-"
 name                     : &name "Zirui Hu"
 description              : &description "personal description"
