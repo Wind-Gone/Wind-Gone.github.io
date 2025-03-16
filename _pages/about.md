@@ -24,7 +24,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 
 - <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**), [PDF]().
 - <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit. (Computer Science, **CCF-A Conference**), [PDF]().
-- <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25 Under Review]</span> Demo. (Computer Science, **CCF-A Conference**), [PDF]().
+- <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**), [PDF]().
 - <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A Conference**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B  Conference**), [PDF](https://www.dasfaa2024.org/research-papers/).
 - <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, **Journal**), [PDF](https://rdcu.be/dAUiF).
@@ -70,6 +70,11 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - 2019.09 - 2022.06, Undergraduate, Chinese Language and Literature College, East China Normal University.
 - 2018.09 - 2022.06, Undergraduate, Software Engineering College, East China Normal University.
 - 2015.09 - 2018.06, Siyang Middle School, Suqian.
+
+🏦 Internship
+======
+- Tencent rhino bird elite talent program, Research Intern, Shenzhen China (2025.07-).
+
 
 📚 Teaching Experience
 ======

@@ -21,7 +21,7 @@ redirect_from:
 
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **胡梓锐**, 张蓉, 杨程程, 周烜, 徐泉清, 杨传辉 (计算机科学, **CCF-A会议**), [PDF]().
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit. (计算机科学, **CCF-A会议**), [PDF]().
--  <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25 Under Review]</span> Demo. (计算机科学, **CCF-A 会议**), [PDF]().
+-  <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. 黄煦华, **胡梓锐**, 翁思扬, 张蓉, 杨程程, 周烜, 钱卫宁, 徐泉清, 杨传辉 (计算机科学, **CCF-A 会议**), [PDF]().
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英 (计算机科学, **CCF-A 会议**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 会议**), [PDF](https://www.dasfaa2024.org/research-papers/).
 - <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. 周胜娣, 蓝发钦, **胡梓锐**, 刘泳廷 (金融, **期刊**), [PDF](https://rdcu.be/dAUiF).
@@ -60,9 +60,12 @@ redirect_from:
 - 2018.09 - 2022.06, 本科, 软件工程学院(软件工程专业), 华东师范大学.
 - 2015.09 - 2018.06, 泗阳中学, 宿迁.
 
+🏦 实习
+======
+- 腾讯犀牛鸟精英人才计划, 科研实习生, 深圳 中国 (2025.07-).
+
 📚 教学经历
 ======
-
 - 自然语言处理课程助教 @ 上海华东师范大学数据科学与工程学院, 2024 春[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
 - 支教教师夏令营 @ 江西上饶灵犀灵樟小学, 2019 春.
 
