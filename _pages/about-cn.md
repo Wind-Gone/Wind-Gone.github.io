@@ -20,7 +20,7 @@ redirect_from:
 > *所有论文按发表年份降序排列 (#表示共一).*
 
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **胡梓锐**, 张蓉, 杨程程, 周烜, 徐泉清, 杨传辉 (计算机科学, **CCF-A会议**), [PDF]().
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit. (计算机科学, **CCF-A会议**), [PDF]().
+-  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. (计算机科学, **CCF-A会议**), [PDF]().
 -  <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. 黄煦华, **胡梓锐**, 翁思扬, 张蓉, 杨程程, 周烜, 钱卫宁, 徐泉清, 杨传辉 (计算机科学, **CCF-A 会议**), [PDF]().
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. 王清帅, 李好, **胡梓锐**, 张蓉, 杨程程, 蔡鹏, 周烜, 周傲英 (计算机科学, **CCF-A 会议**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. 李好, 王清帅, **胡梓锐**, 黄煦华, 倪葎, 张蓉, 周烜 (计算机科学, **CCF-B 会议**), [PDF](https://www.dasfaa2024.org/research-papers/).
