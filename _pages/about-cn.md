@@ -21,8 +21,8 @@ redirect_from:
 
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**), [PDF]().
 -  <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (计算机科学, **CCF-A 会议**), [PDF]().
-<!-- -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**), [PDF](). -->
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit (计算机科学, **CCF-A会议**), [PDF]().
+-  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**), [PDF]().
+<!-- -  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit (计算机科学, **CCF-A会议**), [PDF](). -->
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (计算机科学, **CCF-A 会议**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (计算机科学, **CCF-B 会议**), [PDF](https://www.dasfaa2024.org/research-papers/).
 - <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (金融, **期刊**), [PDF](https://rdcu.be/dAUiF).
@@ -32,8 +32,8 @@ redirect_from:
   - Vodka (一作，审稿中)
   - Panacea (一作，进行中)
   - Mirage Extension (一作，进行中)
-  - Doris (一作，进行中)
   - Mirror (辅助进行中)
+  <!-- - Doris (一作，进行中) -->
 
 🎖 已获部分奖项
 ======
