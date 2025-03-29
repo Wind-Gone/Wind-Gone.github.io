@@ -3,7 +3,7 @@ main:
   - title: "Translate-CN (中文版)"
     url: /about-cn/
             
-  - title: "Blog Posts"
+  - title: "Blog Posts (博客日记)"
     url: /year-archive/
 
   # - title: "Publications"
