@@ -29,11 +29,13 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF T1-Journal**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF T1-Journal**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
-  - Vodka (First Author, Under Review)
-  - Panacea (First Author, WIP)
-  - Mirage-Extension (First Author, WIP)
-  - Leopard-Extension (WIP Assisting)
-  - Mirror (WIP Assisting)
+  - Vodka (Under Review)
+  - Extention1 (Under Review)
+  - Extention2 (Under Review)
+  - Panacea (WIP)
+  - Mirror (WIP)
+  <!-- - Pisco (WIP Assisting) -->
+  <!-- - Survey (WIP Assisting) -->
   <!-- - Doris (First Author, WIP) -->
 
 <!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->

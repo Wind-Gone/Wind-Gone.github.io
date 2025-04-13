@@ -28,11 +28,11 @@ redirect_from:
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF T1级期刊**), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - 期待更多 ...
-  - Vodka (一作，审稿中)
-  - Panacea (一作，进行中)
-  - Mirage Extension (一作，进行中)
-  - Leopard Extension (辅助进行中)
-  - Mirror (辅助进行中)
+  - Vodka (Under Review)
+  - Extention1 (Under Review)
+  - Extention2 (Under Review)
+  - Panacea (WIP)
+  - Mirror (WIP)
   <!-- - Doris (一作，进行中) -->
 
 🎖 已获部分奖项
