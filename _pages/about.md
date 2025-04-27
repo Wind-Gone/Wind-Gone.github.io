@@ -72,8 +72,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 
 🏦 Internship
 ======
-- Tencent rhino bird elite talent program, Research Intern, Shenzhen China (2025.07-).
-
+- Tencent, Research Intern, Shenzhen China (2025.07-).
+ <!-- rhino bird elite talent program -->
 
 📚 Teaching Experience
 ======
