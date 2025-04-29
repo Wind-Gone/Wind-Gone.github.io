@@ -33,7 +33,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
   - Extention1 (Under Review)
   - Extention2 (Under Review)
   - Panacea (WIP)
-  - Mirror (WIP)
+  - Metis (WIP)
+  - Survey (WIP)
   <!-- - Pisco (WIP Assisting) -->
   <!-- - Survey (WIP Assisting) -->
   <!-- - Doris (First Author, WIP) -->

@@ -32,7 +32,8 @@ redirect_from:
   - Extention1 (Under Review)
   - Extention2 (Under Review)
   - Panacea (WIP)
-  - Mirror (WIP)
+  - Metis (WIP)
+  - Survey (WIP)
   <!-- - Doris (一作，进行中) -->
 
 🎖 已获部分奖项
