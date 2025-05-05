@@ -45,8 +45,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 <!-- - **Zirui Hu** et al. Panacea. 2025. [PDF]() (Working). -->
 <!-- - **Zirui Hu** et al. Mirage Extension. 2025. [PDF]() (Writing). -->
 
-🎖 Selected Awards
-======
+<!-- 🎖 Selected Awards
 1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
 2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 3. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
@@ -76,8 +75,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - Tencent, Research Intern, Shenzhen China (2025.07-).
  <!-- rhino bird elite talent program -->
 
-📚 Teaching Experience
-======
+
+<!-- 📚 Teaching Experience
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
 - Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring.
 
@@ -86,6 +85,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ Utrecht Netherland, 2024 Summer. 
 - PingCAP TiDB Talent Plan Tutor (Theme: Learned-based Cardinality/Cost Estimation, [PPT](None)) @ Shanghai China, 2022 Winter.
 - Bytedance ByteHouse technical session (Theme: Query-aware Data Generation, [PPT](None)) @ Shanghai China, 2025 Summer.
+====== -->
 
 📑 Interesting Paper Sharing
 ======
@@ -99,7 +99,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: Performance Bug Detection, [PDF](https://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 9. Constant Optimization Driven Database System Testing. 2025 SIGMOD, Theme: Functional Bug Detection, [PDF](https://dl.acm.org/doi/pdf/10.1145/3709674), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 
-> Please note, these PowerPoints are intended solely for personal learning purposes. All papers discussed here are authored by others, not by us. If you have any detailed questions or would like to explore the research further, please refer to the original authors of the respective papers. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
+> Please note, these PowerPoints are intended solely for personal learning purposes. All papers discussed here are authored by others, not by us. If you have any detailed questions or would like to explore the research further, please refer to the original authors of the respective papers. If there are any errors or omissions, your understanding is appreciated! More papers can be found in this [repo](https://github.com/DBHammer/PaperDiscussion) [![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
 
 🪐 Kind Visitors
 ======

@@ -36,8 +36,7 @@ redirect_from:
   - Survey (WIP)
   <!-- - Doris (一作，进行中) -->
 
-🎖 已获部分奖项
-======
+<!-- 🎖 已获部分奖项
 1. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
 2. 2023 [盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 3. 2023 九坤投资订单撮合系统设计大赛**前20** 
@@ -67,8 +66,7 @@ redirect_from:
 - 腾讯, 科研实习生, 深圳 中国 (2025.07-).
   <!-- 犀牛鸟精英人才计划 -->
 
-📚 教学经历
-======
+<!-- 📚 教学经历
 - 自然语言处理课程助教 @ 上海华东师范大学数据科学与工程学院, 2024 春[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
 - 支教教师夏令营 @ 江西上饶灵犀灵樟小学, 2019 春.
 
@@ -77,6 +75,8 @@ redirect_from:
 - IEEE International Conference on Data Engineering (ICDE) (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ 乌特勒支 荷兰, 2024 夏.
 - 平凯星辰 TiDB 人才计划导师 (主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
 - 字节跳动 ByteHouse 技术分享 (主题: 查询感知的数据生成) @ 上海 中国, 2025 夏.
+====== -->
+
 
 📑 组会论文分享
 ======
@@ -96,3 +96,4 @@ redirect_from:
 🪐 亲爱的游客
 ======
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R47-JnxsWBwEsNz1_n_3PPRXM8Mg83YBvPLcVitQYkk"></script>
+
