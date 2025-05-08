@@ -29,11 +29,13 @@ redirect_from:
 - <span style="color: #1E90FF; font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - 期待更多 ...
   - Vodka (Under Review)
-  - Extention1 (Under Review)
-  - Extention2 (Under Review)
+  - Ext1 (Under Review)
+  - Ext2 (Under Review)
+  - Survey (Under Review)
   - Panacea (WIP)
-  - Metis (WIP)
-  - Survey (WIP)
+  - Phoenix (WIP)
+  - Metis (WIP Assisting)
+  <!-- - Pisco (WIP Assisting) -->
   <!-- - Doris (一作，进行中) -->
 
 <!-- 🎖 已获部分奖项

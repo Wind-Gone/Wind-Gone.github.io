@@ -20,21 +20,22 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
-- <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**), [PDF]().
-- <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**), [PDF]().
-- <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou(Computer Science, **CCF-A Conference**), [PDF]().
-- <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A Conference**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
-- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B  Conference**), [PDF](https://www.dasfaa2024.org/research-papers/).
-- <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, **Journal**), [PDF](https://rdcu.be/dAUiF).
-- <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF T1-Journal**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
-- <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF T1-Journal**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
+- <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: Cardinality Estimation, Benchmark]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**), [PDF]().  
+- <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: Synthetic Data Generation]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**), [PDF]().
+- <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: AI4DB, Database Tuning]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou(Computer Science, **CCF-A Conference**), [PDF]().
+- <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: Synthetic Data Generation]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A Conference**), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage).
+- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: Synthetic Data Generation]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (Computer Science, **CCF-B  Conference**), [PDF](https://www.dasfaa2024.org/research-papers/).
+- <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainble Development'24]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: AI4Finace]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, **Journal**), [PDF](https://rdcu.be/dAUiF).
+- <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'24]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: HTAP Benchmark]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF T1-Journal**), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
+- <span style="color: #1E90FF; font-weight: bold;">[Journal of Software'23]</span><span style="color:rgb(255, 30, 176); font-weight: bold;">[Theme: HTAP System]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF T1-Journal**), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
   - Vodka (Under Review)
-  - Extention1 (Under Review)
-  - Extention2 (Under Review)
+  - Ext1 (Under Review)
+  - Ext2 (Under Review)
+  - Survey (Under Review)
   - Panacea (WIP)
-  - Metis (WIP)
-  - Survey (WIP)
+  - Phoenix (WIP)
+  - Metis (WIP Assisting)
   <!-- - Pisco (WIP Assisting) -->
   <!-- - Survey (WIP Assisting) -->
   <!-- - Doris (First Author, WIP) -->
