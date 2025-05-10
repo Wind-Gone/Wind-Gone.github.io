@@ -36,8 +36,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
   - Panacea (WIP)
   - Phoenix (WIP)
   - Metis (WIP Assisting)
-  <!-- - Pisco (WIP Assisting) -->
-  <!-- - Survey (WIP Assisting) -->
+  - Pisco (WIP Assisting)
   <!-- - Doris (First Author, WIP) -->
 
 <!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->

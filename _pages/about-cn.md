@@ -35,7 +35,7 @@ redirect_from:
   - Panacea (WIP)
   - Phoenix (WIP)
   - Metis (WIP Assisting)
-  <!-- - Pisco (WIP Assisting) -->
+  - Pisco (WIP Assisting)
   <!-- - Doris (一作，进行中) -->
 
 <!-- 🎖 已获部分奖项
