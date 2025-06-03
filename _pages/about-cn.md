@@ -34,6 +34,7 @@ redirect_from:
   - Survey (Under Review)
   - Panacea (WIP)
   - Phoenix (WIP)
+  - Gen (WIP)
   - Metis (WIP Assisting)
   - Pisco (WIP Assisting)
   <!-- - Doris (一作，进行中) -->
