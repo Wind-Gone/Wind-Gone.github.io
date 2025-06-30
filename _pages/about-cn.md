@@ -19,25 +19,25 @@ redirect_from:
 ======
 > *所有论文按发表年份降序排列 (#表示共一).*
 
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e628/26FZD0CCVji).
--  <span style="color: #7B68EE; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成), [PDF]().
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 系统调优), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d807/26FZC51tvRC).
+<!-- - <span style="color: #1E90FF; font-weight: bold;">[VLDB'26]</span> -->
+-  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e628/26FZD0CCVji).
+-  <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成), [PDF]().
+-  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 系统调优), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d807/26FZC51tvRC).
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成), [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10597682). [![](https://img.shields.io/github/stars/DBHammer/Mirage?style=social&label=Code+Stars)](https://github.com/DBHammer/Mirage)
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou (计算机科学, **CCF-B 会议**, 主题: 仿真数据生成), [PDF](https://www.dasfaa2024.org/research-papers/).
-- <span style="color: #008000; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (金融, **期刊**, 主题: 机器学习的金融应用), [PDF](https://rdcu.be/dAUiF).
-- <span style="color: #1E90FF; font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库评测基准), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
-- <span style="color: #1E90FF; font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
+- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (金融, **期刊**, 主题: 机器学习的金融应用), [PDF](https://rdcu.be/dAUiF).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库评测基准), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - 期待更多 ...
   - Vodka (Under Review)
   - Ext1 (Under Review)
   - Ext2 (Under Review)
+  - Pisco (Under Review)
   - Survey (Under Review)
   - Panacea (WIP)
   - Phoenix (WIP)
   - Gen (WIP)
   - Metis (WIP Assisting)
-  - Pisco (WIP Assisting)
-  <!-- - Doris (一作，进行中) -->
 
 <!-- 🎖 已获部分奖项
 1. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
