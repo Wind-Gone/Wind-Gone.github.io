@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Third-Year PhD advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), Research Prof. [ChengCheng Yang](https://ychengc.github.io/), and Prof. [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) and at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
+I am a Third-Year PhD (Permanent head Damage) advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), Research Prof. [ChengCheng Yang](https://ychengc.github.io/), and Prof. [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
 
 My research focuses on database kernel technology, especially for OLAP query optimization, AI4DB, and database system testing.
 
