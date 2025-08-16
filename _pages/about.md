@@ -34,9 +34,6 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
   - Ext2 (Under Review)
   - Pisco (Under Review)
   - Survey (Under Review)
-  <!-- - Metis (TO SUBMIT)
-  - Panacea (WIP)
-  - HyGen (WIP) -->
 
 <!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->
 <!-- - **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Yuxing Chen. Vodka. 2025. [PDF]() (Revising). -->

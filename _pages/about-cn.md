@@ -34,9 +34,6 @@ redirect_from:
   - Ext2 (Under Review)
   - Pisco (Under Review)
   - 综述 (Under Review)
-  <!-- - Metis (TO SUBMIT)
-  - Panacea (WIP)
-  - HyGen (WIP) --> -->
 
 <!-- 🎖 已获部分奖项
 1. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
