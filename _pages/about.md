@@ -10,7 +10,7 @@ redirect_from:
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
 I am a Third-Year PhD (Permanent head Damage) advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), Research Prof. [Chengcheng Yang](https://ychengc.github.io/), and Prof. [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
 
-My research focuses on database kernel technology, especially for OLAP query optimization, AI4DB, and database system testing.
+My research focuses on database kernel technology, especially for OLAP query optimization, database system testing, and AI4DB.
 
 I maintain curated paper lists for OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper) , AI4DB [![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper) and cutting-edge industry practices [![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper) from leading tech giants such as Google, Amazon, Alibaba, and Huawei. These resources aim to keep researchers and practitioners up to date with the latest advancements in these fields.
 
@@ -34,9 +34,9 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
   - Ext2 (Under Review)
   - Pisco (Under Review)
   - Survey (Under Review)
-  - Metis (TO SUBMIT)
+  <!-- - Metis (TO SUBMIT)
   - Panacea (WIP)
-  - HyGen (WIP)
+  - HyGen (WIP) -->
 
 <!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->
 <!-- - **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Yuxing Chen. Vodka. 2025. [PDF]() (Revising). -->
