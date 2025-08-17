@@ -41,8 +41,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 <!-- - **Zirui Hu** et al. Panacea. 2025. [PDF]() (Working). -->
 <!-- - **Zirui Hu** et al. Mirage Extension. 2025. [PDF]() (Writing). -->
 
-<!-- 🎖 Selected Awards
-1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
+<!-- 🎖 Selected Awards -->
+<!-- 1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
 2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 3. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
 4. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: 智能时代的数据系统)
@@ -57,18 +57,29 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 13. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
 14. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
 15. 2019-2021 **First-Class Scholarship** in ECNU
-16. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
+16. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU -->
 
-📖 Educations
+🎖 Selected Awards
+1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
+2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
+3. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+4. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+5. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+6. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+7.  2020 **Excellent Student** of Bytedance FeiShu Training Camp
+8.  2019-2021 **First-Class Scholarship** in ECNU
+9.  2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
+
+<!-- 📖 Educations
 ======
 - 2022.09 - Now, PhD, Data Science and Engineering College, East China Normal University.
 - 2019.09 - 2022.06, Undergraduate, Chinese Language and Literature College, East China Normal University.
 - 2018.09 - 2022.06, Undergraduate, Software Engineering College, East China Normal University.
-- 2015.09 - 2018.06, Siyang Middle School, Suqian.
+- 2015.09 - 2018.06, Siyang Middle School, Suqian. -->
 
 🏦 Internship
 ======
-- Tencent, Research Intern, Shenzhen China (2025.07-).
+- Tencent, Research Intern, Shenzhen China (2025.09-2026.09).
  <!-- rhino bird elite talent program -->
 
 
