@@ -36,6 +36,7 @@ redirect_from:
   - 综述 (Under Review)
 
 🎖 已获部分奖项
+======
 1. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
 2. 2023 [盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 3. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
