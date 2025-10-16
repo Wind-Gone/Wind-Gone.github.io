@@ -20,6 +20,7 @@ redirect_from:
 > *所有论文按发表年份降序排列 (#表示共一).*
 
 <!-- - <span style="color: #1E90FF; font-weight: bold;">[VLDB'26]</span> -->
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准), [PDF]().
 -  <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e628/26FZD0CCVji).
 -  <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成), [PDF]().
 -  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 系统调优), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d807/26FZC51tvRC).
@@ -29,9 +30,9 @@ redirect_from:
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库评测基准), [PDF](https://www.jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - 期待更多 ...
-  - Vodka (Under Review)
   - Leopard (Under Review)
   - Pisco (Under Review)
+  - Panacea (In Submission)
   - 综述 (Under Review)
 
 🎖 已获部分奖项
@@ -56,6 +57,12 @@ redirect_from:
 ======
 - 腾讯, TEG数据库研发部存储引擎组实习生, 深圳 中国 (2025.09-2026.09).
   
+🎙 受邀讲座
+======
+- IEEE International Conference on Data Engineering (ICDE) (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ 乌特勒支 荷兰, 2024 夏.
+- 平凯星辰 TiDB 人才计划导师 (主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
+- 字节跳动 ByteHouse 技术分享 (主题: 查询感知的数据生成) @ 上海 中国, 2025 夏.
+
 <!-- 犀牛鸟精英人才计划 -->
 
 <!-- 📚 教学经历

@@ -20,6 +20,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark), [PDF]().
 - <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e628/26FZD0CCVji).
 - <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**, Theme: Synthetic Data Generation), [PDF]().
 - <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou(Computer Science, **CCF-A Conference**, Theme: AI4DB, Database Tuning), [PDF](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d807/26FZC51tvRC).
@@ -29,9 +30,9 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF T1-Journal**, Theme: HTAP Benchmark), [PDF](https://jos.org.cn/jos/article/abstract/ni028).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF T1-Journal**, Theme: HTAP System), [PDF](https://www.jos.org.cn/jos/article/pdf/6901).
 - WAITING FOR MORE ...
-  - Vodka (Under Review)
   - Leopard (Under Review)
   - Pisco (Under Review)
+  - Panacea (In Submission)
   - Survey (Under Review)
   <!-- - Ext1 (Under Review) -->
 
@@ -83,16 +84,15 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - Tencent, Research Intern of Storage Engine Group at TEG, Shenzhen China (2025.09-2026.09).
  <!-- rhino bird elite talent program -->
 
-
-<!-- 📚 Teaching Experience
-- Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
-- Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring.
-
 🎙 Invited Talks
 ======
 - IEEE International Conference on Data Engineering (ICDE) (Theme: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ Utrecht Netherland, 2024 Summer. 
 - PingCAP TiDB Talent Plan Tutor (Theme: Learned-based Cardinality/Cost Estimation, [PPT](None)) @ Shanghai China, 2022 Winter.
 - Bytedance ByteHouse technical session (Theme: Query-aware Data Generation, [PPT](None)) @ Shanghai China, 2025 Summer.
+
+<!-- 📚 Teaching Experience
+- Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
+- Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring.
 ====== -->
 
 📑 Interesting Paper Sharing
