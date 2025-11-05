@@ -32,8 +32,10 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 - WAITING FOR MORE ...
   - Leopard (Under Review)
   - Pisco (Under Review)
+  - Multi-Modal Survey (Under Review)
   - Panacea (In Submission)
-  - Survey (Under Review)
+  - Metis (In Submission)
+  - HyGen (WIP)
   <!-- - Ext1 (Under Review) -->
 
 <!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->
@@ -68,9 +70,9 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 4. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 5. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
 6. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-7.  2020 **Excellent Student** of Bytedance FeiShu Training Camp
-8.  2019-2021 **First-Class Scholarship** in ECNU
-9.  2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
+7. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
+8. 2019-2021 **First-Class Scholarship** in ECNU (Twice)
+9. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU (Three Times)
 
 <!-- 📖 Educations
 ======

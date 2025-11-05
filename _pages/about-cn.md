@@ -34,6 +34,8 @@ redirect_from:
   - Pisco (Under Review)
   - Panacea (In Submission)
   - 综述 (Under Review)
+  - Metis (In Submission)
+  - HyGen (WIP)
 
 🎖 已获部分奖项
 ======
@@ -42,9 +44,10 @@ redirect_from:
 3. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
 4. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 5. 2022 长三角金融科技挑战赛**大学生创新奖**
-6. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
-7.  2019-2021 华东师范大学**一等奖学金**
-8.  2018-2021 华东师范大学软件工程学院**优秀学生**
+6. 2020 字节跳动飞书前端训练营优秀营员
+7. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
+8. 2019-2021 两届华东师范大学**一等奖学金**
+9. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
 
 <!-- 📖 教育背景
 ======
