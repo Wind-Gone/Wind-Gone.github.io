@@ -83,7 +83,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 
 🏦 Internship
 ======
-- Tencent, Research Intern of Storage Engine Group at TEG, Shenzhen China (2025.09-2026.09).
+- Tencent, Research Intern of Storage Engine Group at TEG, Shenzhen China (2025.09-2026.09, Mentor: Summer Xu, [Yuxing Chen](https://axingguchen.github.io/)).
  <!-- rhino bird elite talent program -->
 
 🎙 Invited Talks
