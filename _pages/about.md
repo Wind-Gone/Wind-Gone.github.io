@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Third-Year PhD (Permanent head Damage) advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of East China Normal University (2022.09 - 2027.06).
+I am a Fourth-Year PhD (Permanent head Damage) advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06).
 
 My research focuses on database kernel technology, especially for OLAP query optimization, database system testing, and AI4DB.
 
@@ -65,15 +65,16 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
 
 🎖 Selected Awards
 ======
-1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
-2. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
-3. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-4. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-5. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-6. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-7. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
-8. 2019-2021 **First-Class Scholarship** in ECNU (Twice)
-9. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU (Three Times)
+1. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
+2. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
+3. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
+4. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+5. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+6. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+7. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+8. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
+9. 2019-2021 **First-Class Scholarship** in ECNU (Twice)
+10. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU (Three Times)
 
 <!-- 📖 Educations
 ======
