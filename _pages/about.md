@@ -37,6 +37,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, and singing🎤 in my spa
   - Panacea (In Submission)
   - Metis (In Submission)
   - HyGen (WIP)
+  - MM (WIP)
+  - TDSQL (WIP)
   <!-- - Ext1 (Under Review) -->
 
 <!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->

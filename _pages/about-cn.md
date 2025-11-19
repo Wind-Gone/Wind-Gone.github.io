@@ -37,6 +37,8 @@ redirect_from:
   - 综述 (Under Review)
   - Metis (In Submission)
   - HyGen (WIP)
+  - MM (WIP)
+  - TDSQL (WIP)
 
 🎖 已获部分奖项
 ======
