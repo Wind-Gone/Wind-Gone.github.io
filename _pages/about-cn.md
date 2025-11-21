@@ -13,7 +13,7 @@ redirect_from:
 
 我维护了一系列精选的论文列表，涵盖OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)，AIDB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)，以及来自谷歌、亚马逊、阿里巴巴和华为等科技巨头的最新行业实践[![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)，旨在帮助感兴趣的朋友们了解这些领域的最新进展。
 
-业余爱好是偶尔打打羽毛球🏸, 篮球🏀, 写写书法🖊和唱歌🎤.
+业余爱好是偶尔打打羽毛球🏸, 篮球🏀, 写写书法🖊，唱歌🎤和弹琴🎹.
 
 📝 论文
 ======
@@ -40,7 +40,7 @@ redirect_from:
   - MM (WIP)
   - TDSQL (WIP)
 
-🎖 已获部分奖项
+🎖 荣誉
 ======
 1. 2025 华东师范大学数据工程与科学学院**优秀学生**
 2. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
@@ -69,19 +69,6 @@ redirect_from:
 - IEEE International Conference on Data Engineering (ICDE) (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ 乌特勒支 荷兰, 2024 夏.
 - 平凯星辰 TiDB 人才计划导师 (主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
 - 字节跳动 ByteHouse 技术分享 (主题: 查询感知的数据生成) @ 上海 中国, 2025 夏.
-
-<!-- 犀牛鸟精英人才计划 -->
-
-<!-- 📚 教学经历
-- 自然语言处理课程助教 @ 上海华东师范大学数据科学与工程学院, 2024 春[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
-- 支教教师夏令营 @ 江西上饶灵犀灵樟小学, 2019 春.
-
-🎙 受邀讲座
-======
-- IEEE International Conference on Data Engineering (ICDE) (主题: Mirage: Generating Enormous Databases for Complex Workloads, [PPT](https://drive.google.com/file/d/1d6l-DYOa3F9f7QUvvktf0fxUx5zOyZHe/view?usp=sharing)) @ 乌特勒支 荷兰, 2024 夏.
-- 平凯星辰 TiDB 人才计划导师 (主题: 基于学习的基数预估/代价计算, [PPT]()) @ 上海 中国, 2022 冬.
-- 字节跳动 ByteHouse 技术分享 (主题: 查询感知的数据生成) @ 上海 中国, 2025 夏.
-====== -->
 
 
 📑 组会论文分享
