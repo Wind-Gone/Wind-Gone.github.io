@@ -35,6 +35,7 @@ redirect_from:
   - Pisco (Under Review)
   - Panacea (In Submission)
   - 综述 (Under Review)
+  - 扩展 (In Submission)
   - Metis (In Submission)
   - HyGen (WIP)
   - MM (WIP)
