@@ -42,16 +42,17 @@ redirect_from:
 
 🎖 荣誉
 ======
-1. 2025 华东师范大学数据工程与科学学院**优秀学生**
-2. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
-3. 2023 [盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
-4. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-5. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-6. 2022 长三角金融科技挑战赛**大学生创新奖**
-7. 2020 字节跳动飞书前端训练营优秀营员
-8. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
-9. 2019-2021 两届华东师范大学**一等奖学金**
-10. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
+1. 2025 华东师范大学计算机科学与技术学院**华鑫奖学金**
+2. 2025 华东师范大学数据工程与科学学院**优秀学生**
+3. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
+4. 2023 华东师范大学数据工程与科学学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
+5. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+6. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+7. 2022 长三角金融科技挑战赛**大学生创新奖**
+8. 2020 字节跳动飞书前端训练营优秀营员
+9. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
+10. 2019-2021 两届华东师范大学软件工程学院**一等奖学金**
+11. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
 
 <!-- 📖 教育背景
 ======
