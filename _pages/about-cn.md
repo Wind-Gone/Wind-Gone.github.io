@@ -82,6 +82,7 @@ redirect_from:
 7. Detecting Metadata-Related Logic Bugs in Database Systems via Raw Database Construction. 2024 VLDB, 主题: 功能故障检测, [PDF](https://www.vldb.org/pvldb/vol17/p1884-song.pdf), [PPT](https://drive.google.com/file/d/1ZCI9dANM75MNMbQepjw5-Ze4sgrcDgs1/view).
 8. PUPPY: Finding Performance Degradation Bugs in DBMSs via Limited-Optimization Plan Construction. 2025 ICSE, Theme: 性能故障检测, [PDF](https://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_25/Puppy_ICSE25.pdf), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
 9. Constant Optimization Driven Database System Testing. 2025 SIGMOD, 主题: 功能故障检测, [PDF](https://dl.acm.org/doi/pdf/10.1145/3709674), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp?dmr=1&ec=wgc-drive-globalnav-goto).
+10. TXSQL: Lock Optimizations Towards High Contented Workloads. 2025 SIGMOD, 主题: 热点锁优化, [PDF](https://dl.acm.org/doi/epdf/10.1145/3722212.3724457), [PPT](https://drive.google.com/drive/folders/1kOWcLKef_75lYUnFiKgFhJQyaaNbXrXp).
 
 > 请注意，本 ppt 仅限于个人学习所用。同时该批论文是拜读他人论文的学习记录，如果有细节的问题麻烦联系原文的作者。如有纰漏还望见谅！更多的内容存放在实验室的[仓库](https://github.com/DBHammer/PaperDiscussion)[![](https://img.shields.io/github/stars/DBHammer/PaperDiscussion?style=social&label=Code+Stars)](https://github.com/DBHammer/PaperDiscussion).
 
