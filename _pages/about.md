@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Fourth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06).
+I am a Fourth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), [Chengcheng Yang](https://ychengc.github.io/), and [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06).
 
 My research focuses on database kernel technology, especially for OLAP query optimization, database system testing, and AI4DB.
 
@@ -21,7 +21,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
-- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with KingBase).
+<!-- - <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Verifier for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, Lv Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, Jianquan Leng (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase). -->
+- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
 - <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
 - <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark, Collaborate with OceanBase, Ant Group).
 - <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou(Computer Science, **CCF-A Conference**, Theme: AI4DB, Database Tuning).
@@ -31,7 +32,6 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF T1-Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF T1-Journal**, Theme: HTAP System).
 - WAITING FOR MORE ...
-  - Leopard (Under Review)
   - Pisco (Under Review)
   - Multi-Modal Survey (Under Review)
   - Extention (In Submission)

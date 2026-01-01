@@ -21,7 +21,8 @@ redirect_from:
 
 <!-- - <span style="color: #1E90FF; font-weight: bold;">[VLDB'26]</span> -->
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准, 合作单位: 蚂蚁集团OceanBase).
-- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (计算机科学, **CCF-C会议**, 主题: 查询优化, 合作单位: 人大金仓).
+<!-- - <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Verifier for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, Lv Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, Jianquan Leng (计算机科学, **CCF-A期刊**, 主题: 隔离级别, 故障验证, 合作单位: 电科金仓). -->
+- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (计算机科学, **CCF-C会议**, 主题: 查询优化, 合作单位: 电科金仓).
 -  <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成, 合作单位: 蚂蚁集团OceanBase).
 -  <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准, 合作单位: 蚂蚁集团OceanBase).
 -  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 系统调优).
@@ -31,7 +32,6 @@ redirect_from:
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库).
 - 期待更多 ...
-  - Leopard (Under Review)
   - Pisco (Under Review)
   - Panacea (In Submission)
   - 综述 (Under Review)
