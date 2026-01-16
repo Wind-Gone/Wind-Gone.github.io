@@ -21,6 +21,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, Rong Zhang, Zhicheng Pan, Xuan Zhou, Yuxing Chen, Xiaolong He, Anqun Pan (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
 <!-- - <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Verifier for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, Lv Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, Jianquan Leng (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase). -->
 - <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
 - <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
@@ -32,21 +33,14 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF T1-Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF T1-Journal**, Theme: HTAP System).
 - WAITING FOR MORE ...
-  - Pisco (Under Review)
   - Multi-Modal Survey (Under Review)
   - Extention (In Submission)
   - Panacea (In Submission)
   - Metis (In Submission)
+  - TDSQL (WIP)
   - HyGen (WIP)
   - MM (WIP)
-  - TDSQL (WIP)
-  <!-- - Ext1 (Under Review) -->
 
-<!-- <span style="color: #FF1493; font-weight: bold;">[VLDB'25]</span> -->
-<!-- - **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Yuxing Chen. Vodka. 2025. [PDF]() (Revising). -->
-<!-- - Siyang Weng, **Zirui Hu** et al. Pisco. 2025. [PDF]() (Revising). -->
-<!-- - **Zirui Hu** et al. Panacea. 2025. [PDF]() (Working). -->
-<!-- - **Zirui Hu** et al. Mirage Extension. 2025. [PDF]() (Writing). -->
 
 <!-- 🎖 Selected Awards -->
 <!-- 1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
