@@ -30,8 +30,8 @@ redirect_from:
 -  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成).
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou, Quanqing Xu (计算机科学, **CCF-B 会议**, 主题: 仿真数据生成), [PDF](https://www.dasfaa2024.org/research-papers/, 合作单位: 蚂蚁集团OceanBase).
 - <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (金融, **期刊**, 主题: 机器学习的金融应用).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF T1级期刊**, 主题: HTAP 数据库).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
 - 期待更多 ...
   - Panacea (In Submission)
   - 扩展 (In Submission)
