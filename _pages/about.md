@@ -67,13 +67,17 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 2. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
 3. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
 4. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
-5. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-6. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-7. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-8. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-9. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
-10. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
-11. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
+5. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
+6. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+7. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+8. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+9. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+10. 2021 **Second prize** in China College Student Computer Design Competition
+11. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
+12. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
+13. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
+14. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
+15. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
 
 <!-- 📖 Educations
 ======
