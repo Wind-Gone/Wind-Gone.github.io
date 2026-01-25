@@ -9,7 +9,7 @@ redirect_from:
 胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](https://www.sei.ecnu.edu.cn/))和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位(软件工程)和辅修学士学位(汉语言文学)。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)攻读博士学位 (2022.09 - 2027.06), 导师是[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
-我的研究方向主要包括数据库内核技术，特别是数据库分析型处理引擎(OLAP)查询优化、数据库系统测试和数据库系统智能化(AI4DB)。
+我的研究方向主要包括数据库内核技术，特别是混合事务与分析型数据库系统优化和数据库系统评测。
 
 我维护了一系列精选的论文列表，涵盖OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)，AIDB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)，以及来自谷歌、亚马逊、阿里巴巴和华为等科技巨头的最新行业实践[![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)，旨在帮助感兴趣的朋友们了解这些领域的最新进展。
 
