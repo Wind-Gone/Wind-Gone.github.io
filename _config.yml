@@ -13,7 +13,7 @@ site_theme               : "default" # dark
 title_separator          : "-"
 name                     : &name "Zirui Hu"
 description              : &description "personal description"
-url                      : https://wind-gone.cloud/
+url                      : https://wind-gone.top/
 baseurl                  : ""
 repository               : "Wind-Gone/Wind-Gone.github.io"
 
