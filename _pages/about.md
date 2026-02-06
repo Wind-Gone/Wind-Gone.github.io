@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Fourth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), [Chengcheng Yang](https://ychengc.github.io/), and [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06).
+I am a Fourth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), [Chengcheng Yang](https://ychengc.github.io/), and [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06 in theroy).
 
-My research focuses on database kernel technology, especially for HTAP Database Systems Optimization and Database Benchmarking.
+My research focuses on database kernel technology, especially for HTAP Database Systems Optimization and Database Benchmarking. I am actively exploring directions in LLM infrastructure and quantitative systems, and I would very much welcome opportunities for discussion and collaboration.
 
 I maintain curated paper lists for OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper) , AI4DB [![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper) and cutting-edge industry practices [![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper) from leading tech giants such as Google, Amazon, Alibaba, and Huawei. These resources aim to keep researchers and practitioners up to date with the latest advancements in these fields.
 
@@ -23,43 +23,23 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, Rong Zhang, Zhicheng Pan, Chengcheng Yang, Xuan Zhou, Yuxing Chen, Xiaolong He, Anqun Pan (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
 <!-- - <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Verifier for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, Lv Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, Jianquan Leng (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase). -->
+<!-- - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (Computer Science, **CCF-A Journal**, Theme: Multimodal Query Processing, Collaborate with Kingbase). -->
 - <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
 - <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
 - <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark, Collaborate with OceanBase, Ant Group).
-- <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou(Computer Science, **CCF-A Conference**, Theme: AI4DB, Database Tuning).
+- <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A Conference**, Theme: AI4DB, LLM Application, Database Tuning).
 - <span style="color: #008000; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A Conference**, Theme: Synthetic Data Generation).
 - <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou, Quanqing Xu (Computer Science, **CCF-B  Conference**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
 - <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainble Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, **Journal**, Theme: AI4Finace).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN Journal**, Theme: HTAP System).
 - WAITING FOR MORE ...
-  - Leopard Extention (TKDE Minor Revision)
   - Extention (VLDBJ in Submission)
   - TDSQL (VLDB in Submission)
   - Panacea (SIGMOD in Submission)
-  - Multi-modal Survey (JOS Minor Revision)
   - Metis (SIGMOD in Submission)
   - HyGen (WIP)
-  - MM (WIP)
-
-
-<!-- 🎖 Selected Awards -->
-<!-- 1. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
-1. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
-2. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
-3. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: 智能时代的数据系统)
-4. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-5. 2022 [**11th place** in the Preliminary Round of the PingCAP TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
-6. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-7. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-8. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-9.  2021 **Second prize** in China College Student Computer Design Competition
-10. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
-11. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
-12. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
-13. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
-14. 2019-2021 **First-Class Scholarship** in ECNU
-15. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU -->
+  - MMB (WIP)
 
 🎖 Selected Awards
 ======
@@ -67,29 +47,22 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 2. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
 3. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
 4. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
-5. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
-6. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-7. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-8. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-9. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-10. 2021 **Second prize** in China College Student Computer Design Competition
-11. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
-12. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
-13. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
-14. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
-15. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
-
-<!-- 📖 Educations
-======
-- 2022.09 - Now, PhD, Data Science and Engineering College, East China Normal University.
-- 2019.09 - 2022.06, Undergraduate, Chinese Language and Literature College, East China Normal University.
-- 2018.09 - 2022.06, Undergraduate, Software Engineering College, East China Normal University.
-- 2015.09 - 2018.06, Siyang Middle School, Suqian. -->
+5. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
+6. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
+7. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+8. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+9. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+10. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+11. 2021 **Second prize** in China College Student Computer Design Competition
+12. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
+13. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
+14. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
+15. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
+16. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
 
 🏦 Internship
 ======
-- Tencent, Research Intern of Storage Engine Group at TEG, Shenzhen & Shanghai China (2025.09-2026.09, Mentor: Summer Wu, [Yuxing Chen](https://axingguchen.github.io/)).
- <!-- rhino bird elite talent program -->
+- Tencent, Research Intern of Storage Engine Group at TEG, Rhino Bird Elite Talent Program, Shenzhen & Shanghai China (2025.09-2026.09, Mentor: Summer Wu, [Yuxing Chen](https://axingguchen.github.io/)).
 
 🎙 Invited Talks
 ======
@@ -98,9 +71,9 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - Bytedance ByteHouse technical session (Theme: Query-aware Data Generation, [PPT](None)) @ Shanghai China, 2025 Summer.
 
 <!-- 📚 Teaching Experience
+======
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
-- Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring.
-====== -->
+- Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring. -->
 
 📑 Interesting Paper Sharing
 ======
