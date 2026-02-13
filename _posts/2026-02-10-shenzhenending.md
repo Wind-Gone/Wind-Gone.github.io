@@ -1,7 +1,7 @@
 ---
 title: 'End of Shenzhen Life'
 date: 2026-02-10
-permalink: /posts/2026/02/post1/
+permalink: /posts/2026/02/post2/
 tags:
   - daily
 ---
