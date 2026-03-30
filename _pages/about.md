@@ -34,10 +34,9 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN Journal**, Theme: HTAP System).
 - WAITING FOR MORE ...
-  - Extention (VLDBJ in Submission)
-  - TDSQL (VLDB in Submission)
   - Panacea (VLDB in Submission)
-  - Metis (SIGMOD in Submission)
+  - Metis (VLDB in Submission)
+  - TDSQL (WIP)
   - HyGen (WIP)
   - MMB (WIP)
 
