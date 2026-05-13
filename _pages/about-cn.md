@@ -36,6 +36,7 @@ redirect_from:
 - 期待更多 ...
   - Panacea (VLDB in Submission)
   - Metis (VLDB in Submission)
+  - Survey (JOS in Submission)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
   - MMB (To Submit)

@@ -36,6 +36,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - WAITING FOR MORE ...
   - Panacea (VLDB in Submission)
   - Metis (VLDB in Submission)
+  - Survey (JOS in Submission)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
   - MMB (To Submit)
