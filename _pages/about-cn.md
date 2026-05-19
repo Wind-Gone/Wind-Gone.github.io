@@ -35,7 +35,7 @@ redirect_from:
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
 - 期待更多 ...
   - Panacea (VLDB in Submission)
-  - Metis (VLDB in Submission)
+  - Metis (VLDB MR)
   - Survey (JOS in Submission)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
