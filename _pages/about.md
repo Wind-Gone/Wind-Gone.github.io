@@ -23,7 +23,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
 - <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, et al. (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase).
-<!-- - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (Computer Science, **CCF-A Journal**, Theme: Multimodal Query Processing, Collaborate with Kingbase). -->
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (Computer Science, **CCF-A Journal**, Theme: Multimodal Query Processing, Collaborate with Kingbase).
 - <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, et al. (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
 - <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, et al. (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
 - <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark, Collaborate with OceanBase, Ant Group).
@@ -36,7 +36,6 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - WAITING FOR MORE ...
   - Panacea (VLDB in Submission)
   - Metis (VLDB MR)
-  - Survey (JOS in Submission)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
   - MMB (To Submit)
