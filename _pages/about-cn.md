@@ -20,22 +20,22 @@ redirect_from:
 ======
 > *所有论文按发表年份降序排列 (#表示共一).*
 
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准, 合作单位: 蚂蚁集团OceanBase).
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, Rong Zhang, Zhicheng Pan, Chengcheng Yang, Xuan Zhou, Yuxing Chen, Xiaolong He, Anqun Pan (计算机科学, **CCF-A会议**, 主题: 事务 Bug, 合作单位: 腾讯).
-- <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, Lv Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, Jianquan Leng (计算机科学, **CCF-A期刊**, 主题: 隔离级别, 故障验证, 合作单位: 电科金仓).
-<!-- - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (计算机科学, **CCF-A中文期刊**, 主题: 多模态数据库查询处理, 合作单位: 电科金仓). -->
-- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (计算机科学, **CCF-C会议**, 主题: 查询优化, 合作单位: 电科金仓).
--  <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成, 合作单位: 蚂蚁集团OceanBase).
--  <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准, 合作单位: 蚂蚁集团OceanBase).
--  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 大语言模型应用, 系统调优).
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成).
-- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou, Quanqing Xu (计算机科学, **CCF-B 会议**, 主题: 仿真数据生成), [PDF](https://www.dasfaa2024.org/research-papers/, 合作单位: 蚂蚁集团OceanBase).
-- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (金融, **期刊**, 主题: 机器学习的金融应用).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准, 合作单位: 蚂蚁集团OceanBase).
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 事务 Bug, 合作单位: 腾讯).
+- <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, et al. (计算机科学, **CCF-A期刊**, 主题: 隔离级别, 故障验证, 合作单位: 电科金仓).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (计算机科学, **CCF-A中文期刊**, 主题: 多模态数据库查询处理, 合作单位: 电科金仓).
+- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, et al. (计算机科学, **CCF-C会议**, 主题: 查询优化, 合作单位: 电科金仓).
+-  <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, et al. (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成, 合作单位: 蚂蚁集团OceanBase).
+-  <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准, 合作单位: 蚂蚁集团OceanBase).
+-  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 大语言模型应用, 系统调优).
+-  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. Qingshuai Wang, Hao Li, **Zirui Hu**, et al. (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成).
+- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, et al. (计算机科学, **CCF-B 会议**, 主题: 仿真数据生成), [PDF](https://www.dasfaa2024.org/research-papers/, 合作单位: 蚂蚁集团OceanBase).
+- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, et al. (金融, **期刊**, 主题: 机器学习的金融应用).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
 - 期待更多 ...
   - Panacea (VLDB in Submission)
-  - Metis (VLDB in Submission)
+  - Metis (VLDB MR)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
   - Griffin (To Submit)
@@ -43,23 +43,24 @@ redirect_from:
 
 🎖 荣誉
 ======
-1. 2026 腾讯犀牛鸟精英人才计划优秀奖学金
-2. 2025 华东师范大学计算机科学与技术学院**华鑫奖学金**
-3. 2025 华东师范大学数据工程与科学学院**优秀学生**
-4. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
-5. 2023 华东师范大学数据工程与科学学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
-6. 2023 九坤投资订单撮合系统设计大赛**Top20**
-7. 2023 华东师范大学数据工程与科学学院暑期学校优秀学员 (主题: 智能时代的数据系统)
-8. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-9. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-10. 2022 长三角金融科技挑战赛**大学生创新奖**
-11. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
-12. 2021 中国大学生计算机设计大赛**全国二等奖**
-13. 2021 "汇创青春"上海大学生文化创意作品展示活动**二等奖**
-14. 2020 字节跳动飞书前端训练营**优秀营员**
-15. 2020 全国大学生信息安全竞赛创新实践能力赛**全国三等奖**
-16. 2019-2021 两届华东师范大学软件工程学院**一等奖学金**
-17. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
+1. 2026 腾讯犀牛鸟精英人才计划**优秀奖学金**
+2. 2026 华东师范大学数据工程与科学学院**优秀共青团员**
+3. 2025 华东师范大学计算机科学与技术学院**华鑫奖学金**
+4. 2025 华东师范大学数据工程与科学学院**优秀学生**
+5. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
+6. 2023 华东师范大学数据工程与科学学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
+7. 2023 九坤投资订单撮合系统设计大赛**Top20**
+8. 2023 华东师范大学数据工程与科学学院暑期学校优秀学员 (主题: 智能时代的数据系统)
+9. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+10. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+11. 2022 长三角金融科技挑战赛**大学生创新奖**
+12. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
+13. 2021 中国大学生计算机设计大赛**全国二等奖**
+14. 2021 "汇创青春"上海大学生文化创意作品展示活动**二等奖**
+15. 2020 字节跳动飞书前端训练营**优秀营员**
+16. 2020 全国大学生信息安全竞赛创新实践能力赛**全国三等奖**
+17. 2019-2021 两届华东师范大学软件工程学院**一等奖学金**
+18. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
 
 <!-- 📖 教育背景
 ======

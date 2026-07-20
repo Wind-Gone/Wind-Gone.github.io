@@ -20,22 +20,22 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, Siyang Weng, Zhicheng Pan, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, Rong Zhang, Zhicheng Pan, Chengcheng Yang, Xuan Zhou, Yuxing Chen, Xiaolong He, Anqun Pan (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
-- <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, Lv Ni, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Weining Qian, Jianquan Leng (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase).
-<!-- - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (Computer Science, **CCF-A Journal**, Theme: Multimodal Query Processing, Collaborate with Kingbase). -->
-- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, Chenhao Lu, Siyang Weng, Qingsong Ruan, Rong Zhang (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
-- <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, Siyang Weng, Rong Zhang, Chengcheng Yang, Xuan Zhou, Weining Qian, Chuanhui Yang, Quanqing Xu (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
-- <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, Rong Zhang, Chengcheng Yang, Xuan Zhou, Quanqing Xu, Chuanhui Yang (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark, Collaborate with OceanBase, Ant Group).
-- <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, Yu Liu, Chengcheng Yang, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A Conference**, Theme: AI4DB, LLM Application, Database Tuning).
-- <span style="color: #008000; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, Rong Zhang, Chengcheng Yang, Peng Cai, Xuan Zhou, and Aoying Zhou (Computer Science, **CCF-A Conference**, Theme: Synthetic Data Generation).
-- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, Xuhua Huang, Lv Ni, Rong Zhang, Xuan Zhou, Quanqing Xu (Computer Science, **CCF-B  Conference**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
-- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainble Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, Yongting Liu (Economics, **Journal**, Theme: AI4Finace).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, Lv Ni, Rong Zhang, Xuan Zhou, Aoying Zhou, Quanqing Xu, Chuanhui Yang, Wei Liu, Panfei Yang (Computer Science, **CCF-A CN Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, Siyang Weng, Qingshuai Wang, Rong Yu, Jinkai Xu, Rong Zhang, Xuan Zhou (Computer Science, **CCF-A CN Journal**, Theme: HTAP System).
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
+- <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, et al. (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (Computer Science, **CCF-A Journal**, Theme: Multimodal Query Processing, Collaborate with Kingbase).
+- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, et al. (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
+- <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, et al. (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
+- <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark, Collaborate with OceanBase, Ant Group).
+- <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: AI4DB, LLM Application, Database Tuning).
+- <span style="color: #008000; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Synthetic Data Generation).
+- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, et al. (Computer Science, **CCF-B  Conference**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
+- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainble Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, et al. (Economics, **Journal**, Theme: AI4Finace).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (Computer Science, **CCF-A CN Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
+- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A CN Journal**, Theme: HTAP System).
 - WAITING FOR MORE ...
   - Panacea (VLDB in Submission)
-  - Metis (VLDB in Submission)
+  - Metis (VLDB MR)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
   - Griffin (To Submit)
@@ -44,22 +44,23 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 🎖 Selected Awards
 ======
 1. 2026 Tencent Rhinoceros Bird Elite Talent Program **Outstanding Scholarship**
-2. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
-3. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
-4. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
-5. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
-6. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
-7. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
-8. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-9. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-10. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-11. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-12. 2021 **Second prize** in China College Student Computer Design Competition
-13. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
-14. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
-15. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
-16. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
-17. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
+2. 2026 **Outstanding Communist Youth League Member** in School of Data Science and Engineering of ECNU
+3. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
+4. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
+5. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
+6. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
+7. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
+8. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
+9. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+10. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+11. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+12. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+13. 2021 **Second prize** in China College Student Computer Design Competition
+14. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
+15. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
+16. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
+17. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
+18. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
 
 🏦 Internship
 ======
