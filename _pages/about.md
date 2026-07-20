@@ -36,30 +36,30 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - WAITING FOR MORE ...
   - Panacea (VLDB in Submission)
   - Metis (VLDB in Submission)
-  - Survey (JOS in Submission)
   - Conference Extension (To Submit)
   - TDSQL (To Submit)
-  - MMB (To Submit)
+  - Griffin (To Submit)
   - HyGen (WIP)
 
 🎖 Selected Awards
 ======
-1. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
-2. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
-3. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
-4. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
-5. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
-6. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
-7. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-8. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-9. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-10. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-11. 2021 **Second prize** in China College Student Computer Design Competition
-12. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
-13. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
-14. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
-15. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
-16. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
+1. 2026 Tencent Rhinoceros Bird Elite Talent Program **Outstanding Scholarship**
+2. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
+3. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
+4. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
+5. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
+6. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
+7. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
+8. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+9. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+10. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+11. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+12. 2021 **Second prize** in China College Student Computer Design Competition
+13. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
+14. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
+15. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
+16. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
+17. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
 
 🏦 Internship
 ======
