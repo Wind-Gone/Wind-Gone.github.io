@@ -34,11 +34,12 @@ redirect_from:
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
 - 期待更多 ...
-  - Panacea (VLDB in Submission)
-  - Metis (VLDB MR)
-  - Conference Extension (To Submit)
-  - TDSQL (To Submit)
-  - Griffin (To Submit)
+  - Metis (VLDB Under Review)
+  - Conference Extension (CCF-B Journal Under Review)
+  - AgentBench (CCF-A Conference Under Review)
+  - TDSQL (To Submit in CCF-A Conference)
+  - Griffin (To Submit in CCF-A Conference)
+  - Panacea (To Submit in CCF-A Conference)
   - HyGen (WIP)
 
 🎖 荣誉
