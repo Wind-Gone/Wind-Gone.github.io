@@ -19,7 +19,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 📝 Publications
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
-
+- <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (Computer Science, Theme: Agent Memory, Benchmark, Collaborate with Huawei).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
 - <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, et al. (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase).
@@ -36,7 +36,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - WAITING FOR MORE ...
   - Metis (VLDB Under Review)
   - Conference Extension (CCF-B Journal Under Review)
-  - AgentBench (CCF-A Conference Under Review)
+  - Setoka (CCF-A Conference Under Review)
   - TDSQL (To Submit in CCF-A Conference)
   - Griffin (To Submit in CCF-A Conference)
   - Panacea (To Submit in CCF-A Conference)
