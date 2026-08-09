@@ -46,7 +46,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 
 🎖 Selected Awards
 ======
-1. 2026 Tencent Rhinoceros Bird Elite Talent Program **Outstanding Scholarship**
+1. 2026 Tencent Rhino Bird Elite Talent Program **Outstanding Scholarship**
 2. 2026 **Outstanding Communist Youth League Member** in School of Data Science and Engineering of ECNU
 3. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
 4. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
