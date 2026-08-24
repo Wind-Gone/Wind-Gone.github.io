@@ -75,10 +75,14 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - PingCAP TiDB Talent Plan Tutor (Theme: Learned-based Cardinality/Cost Estimation, [PPT](None)) @ Shanghai China, 2022 Winter.
 - Bytedance ByteHouse technical session (Theme: Query-aware Data Generation, [PPT](None)) @ Shanghai China, 2025 Summer.
 
-<!-- 📚 Teaching Experience
+📚 Teaching Experience
 ======
 - Teaching Assistant of Natural Language Processing @ Shanghai ECNU DaSE, 2024 Spring[![](https://img.shields.io/github/stars/Wind-Gone/2024spring-dase-nlp?style=social&label=Code+Stars)](https://github.com/Wind-Gone/2024spring-dase-nlp).
-- Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring. -->
+- Teaching Assistant of Volunteer Teaching Summer Camp @ Jiangxi Shangrao Lingxi Lingzhang Primary School, 2019 Spring.
+
+📮 Academic Services
+======
+- Program Committee Member, ACM International Conference on Web Search and Data Mining (WSDM 2027, CCF-B)
 
 📑 Interesting Paper Sharing
 ======
