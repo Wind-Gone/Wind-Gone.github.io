@@ -19,8 +19,7 @@ redirect_from:
 📝 论文
 ======
 > *所有论文按发表年份降序排列 (#表示共一).*
-
-
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'27]</span> Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation. Xuhua Huang, Xinyu Xiang, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 基于直方图的基数预估, 合作单位: 蚂蚁集团OceanBase).
 - <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (计算机科学, 主题: 记忆体, 评测, 合作单位: 华为).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准, 合作单位: 蚂蚁集团OceanBase).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 事务 Bug, 合作单位: 腾讯).
@@ -36,9 +35,7 @@ redirect_from:
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
 - 期待更多 ...
-  - Metis (VLDB MR)
   - Conference Extension (CCF-B Journal Under Review)
-  - Setoka (CCF-A Conference Under Review)
   - TDSQL (To Submit in CCF-A Conference)
   - Griffin (To Submit in CCF-A Conference)
   - Panacea (To Submit in CCF-A Conference)
@@ -64,13 +61,6 @@ redirect_from:
 16. 2020 全国大学生信息安全竞赛创新实践能力赛**全国三等奖**
 17. 2019-2021 两届华东师范大学软件工程学院**一等奖学金**
 18. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
-
-<!-- 📖 教育背景
-======
-- 2022.09 - 至今, 博士在读, 数据科学与工程学院(数据科学与大数据技术专业), 华东师范大学.
-- 2019.09 - 2022.06, 本科, 中文系(汉语言文学专业辅修), 华东师范大学.
-- 2018.09 - 2022.06, 本科, 软件工程学院(软件工程专业), 华东师范大学.
-- 2015.09 - 2018.06, 泗阳中学, 宿迁.  -->
 
 🏦 实习
 ======

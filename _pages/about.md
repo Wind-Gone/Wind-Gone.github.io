@@ -19,8 +19,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 📝 Publications
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
-
-
+- <span style="color: #FF1493; font-weight: bold;">[VLDB'27]</span> Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation. Xuhua Huang, Xinyu Xiang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Histogram-based Cardinality Estimation, Collaborate with OceanBase, Ant Group).
 - <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (Computer Science, Theme: Agent Memory, Benchmark, Collaborate with Huawei).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
@@ -36,9 +35,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (Computer Science, **CCF-A CN Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
 - <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A CN Journal**, Theme: HTAP System).
 - WAITING FOR MORE ...
-  - Metis (VLDB Under Review)
   - Conference Extension (CCF-B Journal Under Review)
-  - Setoka (CCF-A Conference Under Review)
   - TDSQL (To Submit in CCF-A Conference)
   - Griffin (To Submit in CCF-A Conference)
   - Panacea (To Submit in CCF-A Conference)
