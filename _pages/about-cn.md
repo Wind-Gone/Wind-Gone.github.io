@@ -19,6 +19,8 @@ redirect_from:
 📝 论文
 ======
 > *所有论文按发表年份降序排列 (#表示共一).*
+
+
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'27]</span> Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation. Xuhua Huang, Xinyu Xiang, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 基于直方图的基数预估, 合作单位: 蚂蚁集团OceanBase).
 - <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (计算机科学, 主题: 记忆体, 评测, 合作单位: 华为).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准, 合作单位: 蚂蚁集团OceanBase).
