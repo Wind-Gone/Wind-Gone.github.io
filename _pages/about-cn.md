@@ -41,7 +41,6 @@ redirect_from:
   - TDSQL (To Submit in CCF-A Conference)
   - Griffin (To Submit in CCF-A Conference)
   - Panacea (To Submit in CCF-A Conference)
-  - HyGen (WIP)
 
 🎖 荣誉
 ======

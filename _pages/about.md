@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Fourth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), [Chengcheng Yang](https://ychengc.github.io/), and [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06 in theroy).
+I am a Fifth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), [Chengcheng Yang](https://ychengc.github.io/), and [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06 in theroy).
 
 My research focuses on database kernel technology, especially for HTAP Database Systems Optimization and Database Benchmarking. I am actively exploring directions in LLM infrastructure and quantitative systems, and I would very much welcome opportunities for discussion and collaboration.
 
@@ -41,7 +41,6 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
   - TDSQL (To Submit in CCF-A Conference)
   - Griffin (To Submit in CCF-A Conference)
   - Panacea (To Submit in CCF-A Conference)
-  - HyGen (WIP)
 
 🎖 Selected Awards
 ======
