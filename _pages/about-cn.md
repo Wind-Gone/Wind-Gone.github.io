@@ -44,15 +44,15 @@ redirect_from:
 
 🎖 荣誉
 ======
-1. 2026 华东师范大学数据工程与科学学院**国家奖学金**
+1. 2026 华东师范大学数据科学与工程学院**国家奖学金**
 2. 2026 腾讯犀牛鸟精英人才计划**优秀奖学金**
-3. 2026 华东师范大学数据工程与科学学院**优秀共青团员**
+3. 2026 华东师范大学数据科学与工程学院**优秀共青团员**
 4. 2025 华东师范大学计算机科学与技术学院**华鑫奖学金**
-5. 2025 华东师范大学数据工程与科学学院**优秀学生**
+5. 2025 华东师范大学数据科学与工程学院**优秀学生**
 6. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
-7. 2023 华东师范大学数据工程与科学学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
+7. 2023 华东师范大学数据科学与工程学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
 8. 2023 九坤投资订单撮合系统设计大赛**Top20**
-9. 2023 华东师范大学数据工程与科学学院暑期学校优秀学员 (主题: 智能时代的数据系统)
+9. 2023 华东师范大学数据科学与工程学院暑期学校优秀学员 (主题: 智能时代的数据系统)
 10. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
 11. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
 12. 2022 长三角金融科技挑战赛**大学生创新奖**
