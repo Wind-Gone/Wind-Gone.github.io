@@ -44,24 +44,25 @@ redirect_from:
 
 🎖 荣誉
 ======
-1. 2026 腾讯犀牛鸟精英人才计划**优秀奖学金**
-2. 2026 华东师范大学数据工程与科学学院**优秀共青团员**
-3. 2025 华东师范大学计算机科学与技术学院**华鑫奖学金**
-4. 2025 华东师范大学数据工程与科学学院**优秀学生**
-5. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
-6. 2023 华东师范大学数据工程与科学学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
-7. 2023 九坤投资订单撮合系统设计大赛**Top20**
-8. 2023 华东师范大学数据工程与科学学院暑期学校优秀学员 (主题: 智能时代的数据系统)
-9. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-10. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-11. 2022 长三角金融科技挑战赛**大学生创新奖**
-12. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
-13. 2021 中国大学生计算机设计大赛**全国二等奖**
-14. 2021 "汇创青春"上海大学生文化创意作品展示活动**二等奖**
-15. 2020 字节跳动飞书前端训练营**优秀营员**
-16. 2020 全国大学生信息安全竞赛创新实践能力赛**全国三等奖**
-17. 2019-2021 两届华东师范大学软件工程学院**一等奖学金**
-18. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
+1. 2026 华东师范大学数据工程与科学学院**国家奖学金**
+2. 2026 腾讯犀牛鸟精英人才计划**优秀奖学金**
+3. 2026 华东师范大学数据工程与科学学院**优秀共青团员**
+4. 2025 华东师范大学计算机科学与技术学院**华鑫奖学金**
+5. 2025 华东师范大学数据工程与科学学院**优秀学生**
+6. 2023 [国际测试委员会年度前100评测基准](https://www.benchcouncil.org/bench2023/index.html)
+7. 2023 华东师范大学数据工程与科学学院[盘古企业二等奖学金](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg)
+8. 2023 九坤投资订单撮合系统设计大赛**Top20**
+9. 2023 华东师范大学数据工程与科学学院暑期学校优秀学员 (主题: 智能时代的数据系统)
+10. 2022 [第一届蚂蚁集团 OceanBase 数据库大赛全国**亚军**](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+11. 2022 [VLDB暑期学校**一等奖优秀学员&&积极参与学员**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+12. 2022 长三角金融科技挑战赛**大学生创新奖**
+13. 2022 [上海市**优秀毕业生**](https://www.ecnu.edu.cn/info/1094/60826.htm)
+14. 2021 中国大学生计算机设计大赛**全国二等奖**
+15. 2021 "汇创青春"上海大学生文化创意作品展示活动**二等奖**
+16. 2020 字节跳动飞书前端训练营**优秀营员**
+17. 2020 全国大学生信息安全竞赛创新实践能力赛**全国三等奖**
+18. 2019-2021 两届华东师范大学软件工程学院**一等奖学金**
+19. 2018-2021 三届华东师范大学软件工程学院**优秀学生**
 
 🏦 实习
 ======

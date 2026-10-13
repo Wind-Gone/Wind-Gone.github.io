@@ -20,7 +20,6 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
-
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'27]</span> Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation. Xuhua Huang, Xinyu Xiang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Histogram-based Cardinality Estimation, Collaborate with OceanBase, Ant Group).
 - <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (Computer Science, Theme: Agent Memory, Benchmark, Collaborate with Huawei).
 - <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
@@ -44,28 +43,29 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 
 🎖 Selected Awards
 ======
-1. 2026 Tencent Rhino Bird Elite Talent Program **Outstanding Scholarship**
-2. 2026 **Outstanding Communist Youth League Member** in School of Data Science and Engineering of ECNU
-3. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
-4. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
-5. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
-6. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
-7. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
-8. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
-9. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-10. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-11. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-12. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
-13. 2021 **Second prize** in China College Student Computer Design Competition
-14. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
-15. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
-16. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
-17. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
-18. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
+1. 2026 **National Scholarship** in School of Data Science and Engineering of ECNU
+2. 2026 Tencent Rhino Bird Elite Talent Program **Outstanding Scholarship**
+3. 2026 **Outstanding Communist Youth League Member** in School of Data Science and Engineering of ECNU
+4. 2025 **Huaxin Scholarship** in School of Computer Science and Technology of ECNU
+5. 2025 **Outstanding Student** in School of Data Science and Engineering of ECNU
+6. 2023 [Top 100 Benchmarks & Evaluation Achievements](https://www.benchcouncil.org/bench2023/index.html) of FICC
+7. 2023 [PanGu Enterprise Second-class Scholarship](https://mp.weixin.qq.com/s/MhauFCIg94yMD_GfFSXlvg) in School of Data Science and Engineering of ECNU
+8. 2023 **Excellent Student** in ECNU DaSE Summer School (Theme: Data Systems in the Intelligent Era)
+9. 2023 **Top 20** in the Order Matching System Competition of Ubiquant Investment Corp
+10. 2022 [**Second place** of the First OceanBase Database Contest](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)[![](https://img.shields.io/github/stars/Wind-Gone/OceanBase-Contest-Miniob?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
+11. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)[![](https://img.shields.io/github/stars/Wind-Gone/VLDBSS2022-ECNU-DaSE?style=social&label=Code+Stars)](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
+12. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
+13. 2022 [**Outstanding Graduate** of Shanghai Province](https://www.ecnu.edu.cn/info/1094/60826.htm)
+14. 2021 **Second prize** in China College Student Computer Design Competition
+15. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
+16. 2020 **Excellent Student** of ByteDance FeiShu Training Camp
+17. 2020 **Third Prize** in the National College Student Information Security Competition's Innovation and Practice Ability Contest
+18. 2019-2021 **First-Class Scholarship** in School of Software and Engineering of ECNU (Twice)
+19. 2018-2021 **Outstanding Student** in School of Software and Engineering of ECNU (Three Times)
 
 🏦 Internship
 ======
-- Tencent, Research Intern of Storage Engine Group at TEG, Rhino Bird Elite Talent Program, Shenzhen & Shanghai China (2025.09-2026.09, Mentor: Summer Wu, [Yuxing Chen](https://axingguchen.github.io/)).
+- Tencent, Research Intern of Storage Engine Group at TEG, Rhino Bird Elite Talent Program, Shenzhen & Shanghai China (2025.09-2026.09, Mentor: Summer Wu, [Yuxing Chen](https://axingguchen.github.io/))).
 
 🎙 Invited Talks
 ======
