@@ -6,11 +6,33 @@ redirect_from:
   - /about-cn/
   - /about-cn.html
 ---
+<div class="wg-hero">
+  <div class="wg-hero__role">
+    <span class="wg-hero__dot"></span>
+    <span class="wg-typed" data-text="华东师范大学 数据科学与工程学院 博士生 · 数据库内核 · HTAP · 评测基准">华东师范大学 数据科学与工程学院 博士生 · 数据库内核 · HTAP · 评测基准</span>
+  </div>
+  <p class="wg-hero__desc">研究方向为数据库内核技术：HTAP 数据库系统优化、数据库系统评测基准，以及 LLM 基础设施。欢迎交流与合作。</p>
+  <div class="wg-hero__tags">
+    <span>HTAP 数据库</span>
+    <span>基数预估</span>
+    <span>数据库评测</span>
+    <span>AI4DB</span>
+    <span>故障检测</span>
+    <span>LLM 基建</span>
+  </div>
+  <div class="wg-hero__actions">
+    <a class="wg-btn wg-btn--primary" href="mailto:zrhu@stu.ecnu.edu.cn"><i class="fas fa-fw fa-envelope"></i> 邮箱</a>
+    <a class="wg-btn" href="https://scholar.google.com.hk/citations?user=nvQlr_0AAAAJ"><i class="ai ai-google-scholar"></i> Scholar</a>
+    <a class="wg-btn" href="https://github.com/Wind-Gone"><i class="fab fa-fw fa-github"></i> GitHub</a>
+    <a class="wg-btn" href="/year-archive/"><i class="fas fa-fw fa-pen"></i> 博客</a>
+  </div>
+</div>
+
 胡梓锐 (2001.02), 于2018至2022年在[华东师范大学](https://www.ecnu.edu.cn/)的[软件工程学院](](https://www.sei.ecnu.edu.cn/))和[中国语言文学系](https://zhwx.ecnu.edu.cn/)获得学士学位(软件工程)和辅修学士学位(汉语言文学)。
 目前, 我在华东师范大学[数据科学与工程学院](https://www.ecnu.edu.cn/)攻读博士学位 (2022.09 - 预计2027.06), 导师是[张蓉教授](https://dblp.org/pid/13/5366-2.html)。
 
 我的研究方向主要包括数据库内核技术，特别是混合事务与分析型数据库系统优化和数据库系统评测。
-我现在也热衷于寻求LLM Infra, 量化系统领域的探索，欢迎多多交流合作。
+我现在也热衷于寻求Agentic数据库系统（包括记忆体设计，语义查询优化等）和LLM Infra的探索，欢迎多多交流合作。
 
 我维护了一系列精选的论文列表，涵盖OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper)，AI4DB[![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper)，以及来自谷歌、亚马逊、阿里巴巴和华为等科技巨头的最新行业实践[![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)，旨在帮助感兴趣的朋友们了解这些领域的最新进展。
 
@@ -21,26 +43,153 @@ redirect_from:
 > *所有论文按发表年份降序排列 (#表示共一).*
 
 
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'27]</span> Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation. Xuhua Huang, Xinyu Xiang, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 基于直方图的基数预估, 合作单位: 蚂蚁集团OceanBase).
-- <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (计算机科学, 主题: 记忆体, 评测, 合作单位: 华为).
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: HTAP数据库系统, 评测基准, 合作单位: 蚂蚁集团OceanBase).
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 事务 Bug, 合作单位: 腾讯).
-- <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, et al. (计算机科学, **CCF-A期刊**, 主题: 隔离级别, 故障验证, 合作单位: 电科金仓).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (计算机科学, **CCF-A中文期刊**, 主题: 多模态数据库查询处理, 合作单位: 电科金仓).
-- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, et al. (计算机科学, **CCF-C会议**, 主题: 查询优化, 合作单位: 电科金仓).
--  <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, et al. (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成, 合作单位: 蚂蚁集团OceanBase).
--  <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 基数预估, 评测基准, 合作单位: 蚂蚁集团OceanBase).
--  <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, et al. (计算机科学, **CCF-A会议**, 主题: 数据库智能化, 大语言模型应用, 系统调优).
--  <span style="color: #FF4500; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering. Qingshuai Wang, Hao Li, **Zirui Hu**, et al. (计算机科学, **CCF-A 会议**, 主题: 仿真数据生成).
-- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, et al. (计算机科学, **CCF-B 会议**, 主题: 仿真数据生成), [PDF](https://www.dasfaa2024.org/research-papers/, 合作单位: 蚂蚁集团OceanBase).
-- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainable Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, et al. (金融, **期刊**, 主题: 机器学习的金融应用).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'24]</span> Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库评测基准, 合作单位: 蚂蚁集团OceanBase; 华为).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[软件学报'23]</span> HTAP 数据库系统数据共享模型和优化策略. **Zirui Hu**, et al. (计算机科学, **CCF-A中文期刊**, 主题: HTAP 数据库).
-- 期待更多 ...
-  - Conference Extension (CCF-B 期刊 大修)
-  - TDSQL (To Submit in CCF-A 会议)
-  - Griffin (To Submit in CCF-A 会议)
-  - Panacea (To Submit in CCF-A 会议)
+<ul class="pub-list">
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF1493">VLDB'27</span>
+  <span class="pub-body">
+    <span class="pub-title">Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation.</span>
+    <span class="pub-authors">Xuhua Huang, Xinyu Xiang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A会议 · 基于直方图的基数预估 · 合作单位: 蚂蚁集团OceanBase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0aa87a">arXiv'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data.</span>
+    <span class="pub-authors">Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">预印本 · 记忆体, 评测 · 合作单位: 华为</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF1493">VLDB'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Vodka: Rethink Benchmarking Philosophy in HTAP Systems.</span>
+    <span class="pub-authors"><b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A会议 · HTAP数据库系统, 评测基准 · 合作单位: 蚂蚁集团OceanBase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF1493">VLDB'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Pisco: An Isolation Bug Case Reduction and Deduplication Framework.</span>
+    <span class="pub-authors">Siyang Weng, Hongyu Yang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A会议 · 事务 Bug · 合作单位: 腾讯</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#a89500">TKDE'26</span>
+  <span class="pub-body">
+    <span class="pub-title">A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels.</span>
+    <span class="pub-authors">Siyang Weng, Keqiang Li, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A期刊 · 隔离级别, 故障验证 · 合作单位: 电科金仓</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0093b5">软件学报'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Survey on Multimodel and Multimodal Database Query Processing.</span>
+    <span class="pub-authors">Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A中文期刊 · 多模态数据库查询处理 · 合作单位: 电科金仓</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#2525CD">BigData'25</span>
+  <span class="pub-body">
+    <span class="pub-title">Memory-Aware Query Optimization.</span>
+    <span class="pub-authors">Haopu Dong, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-C会议 · 查询优化 · 合作单位: 电科金仓</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF4500">SIGMOD'25</span>
+  <span class="pub-body">
+    <span class="pub-title">A Query-Aware Enormous Database Generator For System Performance Evaluation.</span>
+    <span class="pub-authors">Xuhua Huang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A 会议 · 仿真数据生成 · 合作单位: 蚂蚁集团OceanBase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venues">
+    <span class="pub-venue" style="color:#008000">ICDE'25</span>
+    <span class="pub-venue" style="color:#0aa87a">NDBC'25</span>
+  </span>
+  <span class="pub-body">
+    <span class="pub-title">Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation.</span>
+    <span class="pub-authors"><b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A会议 · 基数预估, 评测基准 · 合作单位: 蚂蚁集团OceanBase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#008000">ICDE'25</span>
+  <span class="pub-body">
+    <span class="pub-title">Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning.</span>
+    <span class="pub-authors">Wenwen Sun#, Zhicheng Pan#, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A会议 · 数据库智能化, 大语言模型应用, 系统调优</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF4500">ICDE'24</span>
+  <span class="pub-body">
+    <span class="pub-title">Mirage: Generating Enormous Databases for Complex Workloads. IEEE International Conference on Data Engineering.</span>
+    <span class="pub-authors">Qingshuai Wang, Hao Li, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A 会议 · 仿真数据生成</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#e07b00">DASFAA'24</span>
+  <span class="pub-body">
+    <span class="pub-title">Touchstone+: Query Aware Database Generation for Match Operators.</span>
+    <span class="pub-authors">Hao Li, Qingshuai Wang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-B 会议 · 仿真数据生成 · 合作单位: 蚂蚁集团OceanBase · <a href="https://www.dasfaa2024.org/research-papers/">PDF</a></span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#7B68EE">Digital Economy &amp; Sustainable Development'24</span>
+  <span class="pub-body">
+    <span class="pub-title">Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning.</span>
+    <span class="pub-authors">Shengdi Zhou, Faqin Lan, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">金融 · 期刊 · 机器学习的金融应用</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0093b5">软件学报'24</span>
+  <span class="pub-body">
+    <span class="pub-authors">Siyang Weng, Rong Yu, Qingshuai Wang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A中文期刊 · HTAP 数据库评测基准 · 合作单位: 蚂蚁集团OceanBase; 华为</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0093b5">软件学报'23</span>
+  <span class="pub-body">
+    <span class="pub-title">HTAP 数据库系统数据共享模型和优化策略.</span>
+    <span class="pub-authors"><b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A中文期刊 · HTAP 数据库</span>
+  </span>
+</li>
+
+<li class="pub pub--soon">
+  <span class="pub-venue pub-venue--soon">期待更多</span>
+  <span class="pub-body">
+    <span class="pub-meta">Conference Extension (CCF-B 期刊 大修) · TDSQL (To Submit in CCF-A 会议) · Griffin (To Submit in CCF-A 会议) · Panacea (To Submit in CCF-A 会议)</span>
+  </span>
+</li>
+
+</ul>
 
 🎖 荣誉
 ======

@@ -7,10 +7,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-I am a Fifth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/), [Chengcheng Yang](https://ychengc.github.io/), and [Peng Cai](https://scholar.google.com/citations?user=NEwtleUAAAAJ&hl=en) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06 in theroy).
+<div class="wg-hero">
+  <div class="wg-hero__role">
+    <span class="wg-hero__dot"></span>
+    <span class="wg-typed" data-text="PhD Student @ ECNU DaSE · Database Kernel · HTAP · Benchmarking">PhD Student @ ECNU DaSE · Database Kernel · HTAP · Benchmarking</span>
+  </div>
+  <p class="wg-hero__desc">Research on database kernel technology — HTAP system optimization, database benchmarking, and LLM infrastructure. Always open to discussions and collaborations.</p>
+  <div class="wg-hero__tags">
+    <span>HTAP Databases</span>
+    <span>Cardinality Estimation</span>
+    <span>Database Benchmarking</span>
+    <span>AI4DB</span>
+    <span>Bug Detection</span>
+    <span>LLM Infra</span>
+  </div>
+  <div class="wg-hero__actions">
+    <a class="wg-btn wg-btn--primary" href="mailto:zrhu@stu.ecnu.edu.cn"><i class="fas fa-fw fa-envelope"></i> Email</a>
+    <a class="wg-btn" href="https://scholar.google.com.hk/citations?user=nvQlr_0AAAAJ"><i class="ai ai-google-scholar"></i> Scholar</a>
+    <a class="wg-btn" href="https://github.com/Wind-Gone"><i class="fab fa-fw fa-github"></i> GitHub</a>
+    <a class="wg-btn" href="/year-archive/"><i class="fas fa-fw fa-pen"></i> Blog</a>
+  </div>
+</div>
 
-My research focuses on database kernel technology, especially for HTAP Database Systems Optimization and Database Benchmarking. I am actively exploring directions in LLM infrastructure and quantitative systems, and I would very much welcome opportunities for discussion and collaboration.
+I am Hu Zirui 胡梓锐 (2001.02), received my B.Eng. degree (2018 - 2022) from [Software Engineering College](https://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) of [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
+I am a Fifth-Year PhD student advised by Prof. [Rong Zhang](https://dblp.org/pid/13/5366-2.html) and co-advised by Prof. [Xuan Zhou](https://xuanzhouhub.github.io/xuanzhouhub/) at [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) (DaSE) of East China Normal University (2022.09 - 2027.06 in theroy).
+
+My research focuses on database kernel technology, especially for HTAP Database Systems Optimization and Database Benchmarking. I am actively exploring directions in Agentic Database (including agent memory and semantic query optimization) and LLM infrastructure, and I would very much welcome opportunities for discussion and collaboration.
 
 I maintain curated paper lists for OLAP [![](https://img.shields.io/github/stars/Wind-Gone/awesome-olap-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/OLAP-Paper) , AI4DB [![](https://img.shields.io/github/stars/Wind-Gone/awesome-ai4db-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/Ai4DB-Paper) and cutting-edge industry practices [![](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social&label=Code+Stars)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper) from leading tech giants such as Google, Amazon, Alibaba, and Huawei. These resources aim to keep researchers and practitioners up to date with the latest advancements in these fields.
 
@@ -20,26 +42,154 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 ======
 > *All papers are listed in descending order by year (# indicates co-first authors).*
 
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'27]</span> Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation. Xuhua Huang, Xinyu Xiang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Histogram-based Cardinality Estimation, Collaborate with OceanBase, Ant Group).
-- <span style="color:rgb(20, 255, 173); font-weight: bold;">[arXiv'26]</span> Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data. Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, **Zirui Hu**, et al. (Computer Science, Theme: Agent Memory, Benchmark, Collaborate with Huawei).
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Vodka: Rethink Benchmarking Philosophy in HTAP Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: HTAP System, Benchmark, Collaborate with OceanBase, Ant Group).
-- <span style="color: #FF1493; font-weight: bold;">[VLDB'26]</span> Pisco: An Isolation Bug Case  Reduction and Deduplication Framework. Siyang Weng, Hongyu Yang, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Transactional Bug, Collaborate with Tencent Inc.).
-- <span style="color:hsl(60, 84.80%, 43.90%); font-weight: bold;">[TKDE'26]</span> A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels. Siyang Weng, Keqiang Li, **Zirui Hu**, et al. (Computer Science, **CCF-A Journal**, Theme: Isolation Level, Verification, Collaborate with Kingbase).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'26]</span> Survey on Multimodel and Multimodal Database Query Processing. Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, **Zirui Hu**, Hailin He, Chengcheng Yang, Rong Zhang, Peng Cai, Xuan Zhou, Qiang Yin (Computer Science, **CCF-A Journal**, Theme: Multimodal Query Processing, Collaborate with Kingbase).
-- <span style="color:rgb(37, 37, 205); font-weight: bold;">[BigData'25]</span> Memory-Aware Query Optimization. Haopu Dong, **Zirui Hu**, et al. (Computer Science, **CCF-C Conference**, Theme: Query Optimization, Collaborate with Kingbase).
-- <span style="color: #FF4500; font-weight: bold;">[SIGMOD'25]</span> A Query-Aware Enormous Database Generator For System Performance Evaluation. Xuhua Huang, **Zirui Hu**, et al. (Computer Science, **CCF-A**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
-- <span style="color: #008000; font-weight: bold;">[ICDE'25</span> & <span style="color:hsl(155, 94.30%, 41.00%); font-weight: bold;">NDBC'25]</span> Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation. **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Cardinality Estimation, Benchmark, Collaborate with OceanBase, Ant Group).
-- <span style="color: #008000; font-weight: bold;">[ICDE'25]</span> Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning. Wenwen Sun#, Zhicheng Pan#, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: AI4DB, LLM Application, Database Tuning).
-- <span style="color: #008000; font-weight: bold;">[ICDE'24]</span> Mirage: Generating Enormous Databases for Complex Workloads. Qingshuai Wang, Hao Li, **Zirui Hu**, et al. (Computer Science, **CCF-A Conference**, Theme: Synthetic Data Generation).
-- <span style="color: #FFA500; font-weight: bold;">[DASFAA'24]</span> Touchstone+ : Query Aware Database Generation for Match Operators. Hao Li, Qingshuai Wang, **Zirui Hu**, et al. (Computer Science, **CCF-B  Conference**, Theme: Synthetic Data Generation, Collaborate with OceanBase, Ant Group).
-- <span style="color: #7B68EE; font-weight: bold;">[Digital Economy and Sustainble Development'24]</span> Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning. Shengdi Zhou, Faqin Lan, **Zirui Hu**, et al. (Economics, **Journal**, Theme: AI4Finace).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'24]</span> The Benchmarking Ability of HTAP Benchmarks. Siyang Weng, Rong Yu, Qingshuai Wang, **Zirui Hu**, et al. (Computer Science, **CCF-A CN Journal**, Theme: HTAP Benchmark, Collaborate with OceanBase, Ant Group; Huawei).
-- <span style="color: rgb(0, 221, 255); font-weight: bold;">[Journal of Software'23]</span> Data Sharing Model and Optimization Strategies in HTAP Database Systems. **Zirui Hu**, et al. (Computer Science, **CCF-A CN Journal**, Theme: HTAP System).
-- WAITING FOR MORE ...
-  - Conference Extension (CCF-B Journal Major Revision)
-  - TDSQL (To Submit in CCF-A Conference)
-  - Griffin (To Submit in CCF-A Conference)
-  - Panacea (To Submit in CCF-A Conference)
+<ul class="pub-list">
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF1493">VLDB'27</span>
+  <span class="pub-body">
+    <span class="pub-title">Metis: Revisiting Workload-Aware Multidimensional Histograms for Cardinality Estimation.</span>
+    <span class="pub-authors">Xuhua Huang, Xinyu Xiang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Conference · Histogram-based Cardinality Estimation · with OceanBase, Ant Group</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0aa87a">arXiv'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Setoka: A Benchmark for Hierarchical User Understanding in Personalized Agents over Heterogeneous Data.</span>
+    <span class="pub-authors">Lingyang Zeng, Guangze Chen, Kaichen Yu, Zhicheng Pan, Siyang Weng, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">Preprint · Agent Memory, Benchmark · with Huawei</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF1493">VLDB'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Vodka: Rethink Benchmarking Philosophy in HTAP Systems.</span>
+    <span class="pub-authors"><b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Conference · HTAP System, Benchmark · with OceanBase, Ant Group</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF1493">VLDB'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Pisco: An Isolation Bug Case Reduction and Deduplication Framework.</span>
+    <span class="pub-authors">Siyang Weng, Hongyu Yang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Conference · Transactional Bug · with Tencent Inc.</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#a89500">TKDE'26</span>
+  <span class="pub-body">
+    <span class="pub-title">A High-Performance Black-Box Bug-Finding Tool for Database Isolation Levels.</span>
+    <span class="pub-authors">Siyang Weng, Keqiang Li, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Journal · Isolation Level, Verification · with Kingbase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0093b5">Journal of Software'26</span>
+  <span class="pub-body">
+    <span class="pub-title">Survey on Multimodel and Multimodal Database Query Processing.</span>
+    <span class="pub-authors">Lingyang Zeng, Xuhua Huang, Hongyu Yang, Siyang Weng, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Journal · Multimodal Query Processing · with Kingbase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#2525CD">BigData'25</span>
+  <span class="pub-body">
+    <span class="pub-title">Memory-Aware Query Optimization.</span>
+    <span class="pub-authors">Haopu Dong, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-C Conference · Query Optimization · with Kingbase</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#FF4500">SIGMOD'25</span>
+  <span class="pub-body">
+    <span class="pub-title">A Query-Aware Enormous Database Generator For System Performance Evaluation.</span>
+    <span class="pub-authors">Xuhua Huang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A · Synthetic Data Generation · with OceanBase, Ant Group</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venues">
+    <span class="pub-venue" style="color:#008000">ICDE'25</span>
+    <span class="pub-venue" style="color:#0aa87a">NDBC'25</span>
+  </span>
+  <span class="pub-body">
+    <span class="pub-title">Artemis: A Customizable Workload Generation Toolkit for Benchmarking Cardinality Estimation.</span>
+    <span class="pub-authors"><b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Conference · Cardinality Estimation, Benchmark · with OceanBase, Ant Group</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#008000">ICDE'25</span>
+  <span class="pub-body">
+    <span class="pub-title">Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning.</span>
+    <span class="pub-authors">Wenwen Sun#, Zhicheng Pan#, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Conference · AI4DB, LLM Application, Database Tuning</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#008000">ICDE'24</span>
+  <span class="pub-body">
+    <span class="pub-title">Mirage: Generating Enormous Databases for Complex Workloads.</span>
+    <span class="pub-authors">Qingshuai Wang, Hao Li, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A Conference · Synthetic Data Generation</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#e07b00">DASFAA'24</span>
+  <span class="pub-body">
+    <span class="pub-title">Touchstone+: Query Aware Database Generation for Match Operators.</span>
+    <span class="pub-authors">Hao Li, Qingshuai Wang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-B Conference · Synthetic Data Generation · with OceanBase, Ant Group</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#7B68EE">Digital Economy &amp; Sustainable Development'24</span>
+  <span class="pub-body">
+    <span class="pub-title">Determinants of Successful Mergers and Acquisitions in China: Evidence from Machine Learning.</span>
+    <span class="pub-authors">Shengdi Zhou, Faqin Lan, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">Economics · Journal · AI4Finance</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0093b5">Journal of Software'24</span>
+  <span class="pub-body">
+    <span class="pub-title">The Benchmarking Ability of HTAP Benchmarks.</span>
+    <span class="pub-authors">Siyang Weng, Rong Yu, Qingshuai Wang, <b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A CN Journal · HTAP Benchmark · with OceanBase, Ant Group; Huawei</span>
+  </span>
+</li>
+
+<li class="pub">
+  <span class="pub-venue" style="color:#0093b5">Journal of Software'23</span>
+  <span class="pub-body">
+    <span class="pub-title">Data Sharing Model and Optimization Strategies in HTAP Database Systems.</span>
+    <span class="pub-authors"><b>Zirui Hu</b>, et al.</span>
+    <span class="pub-meta">CCF-A CN Journal · HTAP System</span>
+  </span>
+</li>
+
+<li class="pub pub--soon">
+  <span class="pub-venue pub-venue--soon">WAITING FOR MORE</span>
+  <span class="pub-body">
+    <span class="pub-meta">Conference Extension (CCF-B Journal Major Revision) · TDSQL (To Submit in CCF-A Conference) · Griffin (To Submit in CCF-A Conference) · Panacea (To Submit in CCF-A Conference)</span>
+  </span>
+</li>
+
+</ul>
 
 🎖 Selected Awards
 ======
@@ -65,7 +215,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 
 🏦 Internship
 ======
-- Tencent, Research Intern of Storage Engine Group at TEG, Rhino Bird Elite Talent Program, Shenzhen & Shanghai China (2025.09-2026.09, Mentor: Summer Wu, [Yuxing Chen](https://axingguchen.github.io/))).
+- Tencent, Research Intern of Storage Engine Group at TEG, Rhino Bird Elite Talent Program, Shenzhen & Shanghai China (2025.09-2026.09, Mentor: Summer Wu, [Yuxing Chen](https://axingguchen.github.io/)).
 
 🎙 Invited Talks
 ======
