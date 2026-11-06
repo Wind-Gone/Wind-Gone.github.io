@@ -185,7 +185,7 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 <li class="pub pub--soon">
   <span class="pub-venue pub-venue--soon">WAITING FOR MORE</span>
   <span class="pub-body">
-    <span class="pub-meta">Conference Extension (CCF-B Journal Major Revision) · TDSQL (To Submit in CCF-A Conference) · Griffin (To Submit in CCF-A Conference) · Panacea (To Submit in CCF-A Conference)</span>
+    <span class="pub-meta">Conference Extension (CCF-B Journal Major Revision) · TDSQL (To Submit in CCF-A Conference) · Griffin (To Submit in CCF-A Conference) · Panacea (To Submit in CCF-A Conference) · VecPat (To Submit in CCF-A Conference)</span>
   </span>
 </li>
 
@@ -249,4 +249,18 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
 
 🪐 Kind Visitors
 ======
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R47-JnxsWBwEsNz1_n_3PPRXM8Mg83YBvPLcVitQYkk"></script>
+
+<div class="wg-visitors" id="wg-visitors">
+  <div class="wg-visitors__item">
+    <span class="wg-visitors__num" id="busuanzi_value_site_pv">—</span>
+    <span class="wg-visitors__label">Page Views</span>
+  </div>
+  <div class="wg-visitors__item">
+    <span class="wg-visitors__num" id="busuanzi_value_site_uv">—</span>
+    <span class="wg-visitors__label">Unique Visitors</span>
+  </div>
+  <div class="wg-visitors__item">
+    <span class="wg-visitors__num" id="busuanzi_value_page_pv">—</span>
+    <span class="wg-visitors__label">This Page</span>
+  </div>
+</div>

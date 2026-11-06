@@ -162,8 +162,22 @@
   /* -------------------------------------------------------------- 滚动揭示 */
 
   function buildReveal() {
+    /* 只对确定的文本类块做揭示，避免把第三方脚本注入的 canvas / iframe
+       （如 ClustrMaps 访客地图）一起设为 opacity:0 而看不见 */
     var selectors = [
-      ".page__content > *",
+      ".page__content > p",
+      ".page__content > ul",
+      ".page__content > ol",
+      ".page__content > blockquote",
+      ".page__content > h1",
+      ".page__content > h2",
+      ".page__content > h3",
+      ".page__content > h4",
+      ".page__content > pre",
+      ".page__content > table",
+      ".page__content > figure",
+      ".page__content > hr",
+      ".page__content > .wg-hero",
       ".page__title",
       ".sidebar .author__avatar",
       ".sidebar .author__content",
@@ -306,6 +320,29 @@
     });
   }
 
+  /* ------------------------------------------------- 访客数字（不蒜子统计） */
+
+  function buildVisitorsCount() {
+    if (!document.getElementById("wg-visitors")) return;
+
+    var script = document.createElement("script");
+    script.async = true;
+    script.src =
+      "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+    document.body.appendChild(script);
+
+    /* 6 秒后仍无数字则把卡片降透明度（不显示报错文案） */
+    setTimeout(function () {
+      var pv = document.getElementById("busuanzi_value_site_pv");
+      if (!pv) return;
+      var text = (pv.textContent || "").trim();
+      if (!text || text === "—") {
+        var card = document.getElementById("wg-visitors");
+        if (card) card.classList.add("is-offline");
+      }
+    }, 6000);
+  }
+
   /* ---------------------------------------------------------------- 动画小人 */
 
   var MASCOT_TIPS = [
@@ -408,6 +445,7 @@
     buildTyping();
     buildAnchors();
     buildLightbox();
+    buildVisitorsCount();
     buildMascot();
     buildReveal();
   }

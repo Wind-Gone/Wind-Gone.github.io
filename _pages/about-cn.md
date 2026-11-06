@@ -185,7 +185,7 @@ redirect_from:
 <li class="pub pub--soon">
   <span class="pub-venue pub-venue--soon">期待更多</span>
   <span class="pub-body">
-    <span class="pub-meta">Conference Extension (CCF-B 期刊 大修) · TDSQL (To Submit in CCF-A 会议) · Griffin (To Submit in CCF-A 会议) · Panacea (To Submit in CCF-A 会议)</span>
+    <span class="pub-meta">Conference Extension (CCF-B 期刊 大修) · TDSQL (To Submit in CCF-A 会议) · Griffin (To Submit in CCF-A 会议) · Panacea (To Submit in CCF-A 会议) · VecPat (To Submit in CCF-A 会议)</span>
   </span>
 </li>
 
@@ -250,5 +250,19 @@ redirect_from:
 
 🪐 亲爱的游客
 ======
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=R47-JnxsWBwEsNz1_n_3PPRXM8Mg83YBvPLcVitQYkk"></script>
+
+<div class="wg-visitors" id="wg-visitors">
+  <div class="wg-visitors__item">
+    <span class="wg-visitors__num" id="busuanzi_value_site_pv">—</span>
+    <span class="wg-visitors__label">总访问量</span>
+  </div>
+  <div class="wg-visitors__item">
+    <span class="wg-visitors__num" id="busuanzi_value_site_uv">—</span>
+    <span class="wg-visitors__label">独立访客</span>
+  </div>
+  <div class="wg-visitors__item">
+    <span class="wg-visitors__num" id="busuanzi_value_page_pv">—</span>
+    <span class="wg-visitors__label">本页浏览</span>
+  </div>
+</div>
 
