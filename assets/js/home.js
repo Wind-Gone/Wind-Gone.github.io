@@ -323,7 +323,40 @@
   /* ------------------------------------------------- 访客数字（不蒜子统计） */
 
   function buildVisitorsCount() {
-    if (!document.getElementById("wg-visitors")) return;
+    var card = document.getElementById("wg-visitors");
+    if (!card) return;
+
+    var nums = card.querySelectorAll(".wg-visitors__num");
+
+    /* 不蒜子按 Referer 域名分桶统计；localhost / 127.0.0.1 是全球共享的
+       大桶（数字千万级），所以只在正式域名下加载，避免看到别人的数据 */
+    var PRODUCTION_HOSTS = [
+      "wind-gone.top",
+      "www.wind-gone.top",
+      "wind-gone.github.io"
+    ];
+    var isProduction = PRODUCTION_HOSTS.indexOf(location.hostname) !== -1;
+
+    /* 数字加千分位，例如 12,345 */
+    function formatNumbers() {
+      Array.prototype.forEach.call(nums, function (el) {
+        var raw = (el.textContent || "").trim();
+        if (!/^\d+$/.test(raw)) return;
+        el.textContent = Number(raw).toLocaleString("en-US");
+        el.setAttribute("title", "累计 " + raw);
+      });
+    }
+
+    if (!isProduction) {
+      card.classList.add("is-preview");
+      Array.prototype.forEach.call(nums, function (el) {
+        el.setAttribute(
+          "title",
+          "本地预览不统计：不蒜子按域名分桶，localhost 是共享大桶。部署到 wind-gone.top 后显示本站真实累计数据。"
+        );
+      });
+      return;
+    }
 
     var script = document.createElement("script");
     script.async = true;
@@ -331,14 +364,23 @@
       "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
     document.body.appendChild(script);
 
+    /* 数字写入后自动加千分位 */
+    if (window.MutationObserver) {
+      var mo = new MutationObserver(formatNumbers);
+      Array.prototype.forEach.call(nums, function (el) {
+        mo.observe(el, { childList: true, characterData: true, subtree: true });
+      });
+    } else {
+      setTimeout(formatNumbers, 3000);
+    }
+
     /* 6 秒后仍无数字则把卡片降透明度（不显示报错文案） */
     setTimeout(function () {
       var pv = document.getElementById("busuanzi_value_site_pv");
       if (!pv) return;
       var text = (pv.textContent || "").trim();
       if (!text || text === "—") {
-        var card = document.getElementById("wg-visitors");
-        if (card) card.classList.add("is-offline");
+        card.classList.add("is-offline");
       }
     }, 6000);
   }

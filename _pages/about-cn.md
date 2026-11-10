@@ -185,7 +185,7 @@ redirect_from:
 <li class="pub pub--soon">
   <span class="pub-venue pub-venue--soon">期待更多</span>
   <span class="pub-body">
-    <span class="pub-meta">Conference Extension (CCF-B 期刊 大修) · TDSQL (To Submit in CCF-A 会议) · Griffin (To Submit in CCF-A 会议) · Panacea (To Submit in CCF-A 会议) · VecPat (To Submit in CCF-A 会议)</span>
+    <span class="pub-meta">Conference Extension (CCF-B 期刊 大修) · TDSQL (CCF-A 会议在审) · Griffin (CCF-A 会议在审) · Panacea (CCF-A 会议拟投) · VecPat (CCF-A 会议在审)</span>
   </span>
 </li>
 
@@ -264,5 +264,15 @@ redirect_from:
     <span class="wg-visitors__num" id="busuanzi_value_page_pv">—</span>
     <span class="wg-visitors__label">本页浏览</span>
   </div>
+</div>
+
+<div class="wg-vmap" id="wg-visitor-map" data-lang="zh" data-map-src="{{ site.baseurl }}/assets/data/world.json">
+  <div class="wg-vmap__head">
+    <span class="wg-vmap__title">访客来源分布</span>
+    <span class="wg-vmap__meta" data-role="meta">加载中…</span>
+  </div>
+  <div class="wg-vmap__canvas" data-role="chart"></div>
+  <ul class="wg-vmap__list" data-role="list"></ul>
+  <p class="wg-vmap__note" data-role="note"></p>
 </div>
 
