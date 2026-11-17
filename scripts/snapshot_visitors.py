@@ -9,6 +9,7 @@ ntfy 免费频道只保留 12 小时消息，所以要定时把消息搬运到�
 
 import json
 import os
+import re
 import sys
 import urllib.request
 
@@ -18,6 +19,18 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(ROOT, "assets", "data", "visits.json")
 
 MAX_SEEN = 5000
+
+
+def normalize_location(z, p, c):
+    """消息里的 z 可能是「中国<TAB>省<TAB><TAB>市」这类格式，
+    重新切分可以得到更干净的省市；切不出来再退回上报的 p / c。"""
+    parts = [x for x in re.split(r"[\s\u2013\u2014-]+", (z or "").strip()) if x]
+    if len(parts) >= 2 and parts[0].startswith("中国"):
+        prov = parts[1]
+        city = parts[2] if len(parts) > 2 else ""
+        return prov, (city or prov)
+    city = re.sub(r"\s+(Shi|City|Xian|County)$", "", (c or ""), flags=re.I)
+    return (p or ""), city
 
 
 def empty_state():
@@ -96,7 +109,8 @@ def main():
 
         if msg["e"]:
             state["countries"][msg["e"]] = state["countries"].get(msg["e"], 0) + 1
-        city = msg["c"] or msg["p"]
+        prov, city = normalize_location(msg["z"], msg["p"], msg["c"])
+        city = city or prov
         if city:
             state["cities"][city] = state["cities"].get(city, 0) + 1
         if msg["u"]:

@@ -155,8 +155,6 @@
       },
       empty: "No visitor data yet.",
       loading: "loading…",
-      note:
-        "Location resolved from IP at country / city level only — no full IP is stored. Totals are snapshotted hourly.",
       unit: " visits"
     },
     zh: {
@@ -171,7 +169,6 @@
       },
       empty: "暂时还没有访客数据。",
       loading: "加载中…",
-      note: "仅按 IP 解析到国家 / 城市级，不保存完整 IP；累计数据每小时快照一次。",
       unit: " 次"
     }
   };
@@ -269,8 +266,9 @@
       })
       .then(function (data) {
         var info = (data && data.data) || {};
+        /* 该接口可能用 Tab、短横线或空格分隔「国家/省/市」 */
         var parts = String(info.country || info.location || "")
-          .split(/[\u2013\u2014-]/)
+          .split(/[\s\u2013\u2014-]+/)
           .map(function (s) {
             return s.trim();
           })
@@ -609,7 +607,8 @@
 
     listEl.innerHTML = entries
       .map(function (e) {
-        return "<li>" + e.name + "<b>" + e.value + "</b></li>";
+        var name = String(e.name).replace(/\s+(Shi|City|Xian|County)$/i, "");
+        return "<li>" + name + "<b>" + e.value + "</b></li>";
       })
       .join("");
   }
@@ -663,9 +662,7 @@
     var metaEl = box.querySelector('[data-role="meta"]');
     var chartEl = box.querySelector('[data-role="chart"]');
     var listEl = box.querySelector('[data-role="list"]');
-    var noteEl = box.querySelector('[data-role="note"]');
 
-    if (noteEl) noteEl.textContent = t.note;
     if (metaEl) metaEl.textContent = t.loading;
 
     var started = false;

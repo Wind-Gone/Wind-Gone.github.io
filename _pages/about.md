@@ -272,5 +272,4 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
   </div>
   <div class="wg-vmap__canvas" data-role="chart"></div>
   <ul class="wg-vmap__list" data-role="list"></ul>
-  <p class="wg-vmap__note" data-role="note"></p>
 </div>

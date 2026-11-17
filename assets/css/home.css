@@ -1229,13 +1229,6 @@ html[data-theme="dark"] .page__content .wg-vmap__list li {
   color: var(--wg-accent);
 }
 
-.wg-vmap__note {
-  margin: 0.5em 0 0;
-  font-size: 0.72em;
-  line-height: 1.5;
-  color: var(--global-text-color-light);
-  opacity: 0.9;
-}
 
 /* 分享按钮 */
 .page__share .btn {
