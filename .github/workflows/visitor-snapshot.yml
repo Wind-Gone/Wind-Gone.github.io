@@ -1,0 +1,41 @@
+name: Snapshot visitor stats
+
+# ntfy 免费频道只保留 12 小时消息，这里每小时把新消息并入
+# assets/data/visits.json，保证主页的累计统计不会丢数据。
+
+on:
+  schedule:
+    - cron: "17 * * * *" # 每小时一次（GitHub 定时任务可能有几分钟延迟）
+  workflow_dispatch: # 也可以手动触发
+  push: # 脚本本身更新时顺带跑一次
+    paths:
+      - "scripts/snapshot_visitors.py"
+      - ".github/workflows/visitor-snapshot.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: visitor-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Merge new visits into visits.json
+        run: python3 scripts/snapshot_visitors.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/visits.json
+          if git diff --staged --quiet; then
+            echo "没有新的访客数据"
+          else
+            git commit -m "chore: snapshot visitor stats"
+            git push
+          fi

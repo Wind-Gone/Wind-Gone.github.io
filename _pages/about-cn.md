@@ -253,20 +253,20 @@ redirect_from:
 
 <div class="wg-visitors" id="wg-visitors">
   <div class="wg-visitors__item">
-    <span class="wg-visitors__num" id="busuanzi_value_site_pv">—</span>
+    <span class="wg-visitors__num" id="wg-stat-pv">—</span>
     <span class="wg-visitors__label">总访问量</span>
   </div>
   <div class="wg-visitors__item">
-    <span class="wg-visitors__num" id="busuanzi_value_site_uv">—</span>
+    <span class="wg-visitors__num" id="wg-stat-uv">—</span>
     <span class="wg-visitors__label">独立访客</span>
   </div>
   <div class="wg-visitors__item">
-    <span class="wg-visitors__num" id="busuanzi_value_page_pv">—</span>
+    <span class="wg-visitors__num" id="wg-stat-page">—</span>
     <span class="wg-visitors__label">本页浏览</span>
   </div>
 </div>
 
-<div class="wg-vmap" id="wg-visitor-map" data-lang="zh" data-map-src="{{ site.baseurl }}/assets/data/world.json">
+<div class="wg-vmap" id="wg-visitor-map" data-lang="zh" data-map-src="{{ site.baseurl }}/assets/data/world.json" data-stats-src="{{ site.baseurl }}/assets/data/visits.json">
   <div class="wg-vmap__head">
     <span class="wg-vmap__title">访客来源分布</span>
     <span class="wg-vmap__meta" data-role="meta">加载中…</span>

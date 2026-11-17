@@ -21,6 +21,7 @@
   var GEO_CN = "https://ip.zxinc.org/api.php?type=json";
   var GEO_EN = "https://ipwho.is/";
   var DEFAULT_MAP_SRC = "/assets/data/world.json";
+  var DEFAULT_STATS_SRC = "/assets/data/visits.json";
   var ECHARTS_CDNS = [
     "https://registry.npmmirror.com/echarts/5.5.1/files/dist/echarts.min.js",
     "https://cdn.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js",
@@ -145,21 +146,32 @@
     en: {
       meta: function (total, countries) {
         return (
-          "last 12 hours · " + total + " visits · " + countries + " countries / regions"
+          "all time · " +
+          formatNumber(total) +
+          " visits · " +
+          countries +
+          " countries / regions"
         );
       },
       empty: "No visitor data yet.",
       loading: "loading…",
+      note:
+        "Location resolved from IP at country / city level only — no full IP is stored. Totals are snapshotted hourly.",
       unit: " visits"
     },
     zh: {
       meta: function (total, countries) {
         return (
-          "近 12 小时 · " + total + " 次访问 · " + countries + " 个国家 / 地区"
+          "累计 · " +
+          formatNumber(total) +
+          " 次访问 · " +
+          countries +
+          " 个国家 / 地区"
         );
       },
       empty: "暂时还没有访客数据。",
       loading: "加载中…",
+      note: "仅按 IP 解析到国家 / 城市级，不保存完整 IP；累计数据每小时快照一次。",
       unit: " 次"
     }
   };
@@ -208,6 +220,22 @@
     }, Promise.reject()).then(function () {
       return window.echarts;
     });
+  }
+
+  /* 匿名访客标识：只在本地存一个随机串，用于统计独立访客数 */
+  function getVisitorId() {
+    try {
+      var id = localStorage.getItem("wg_vid");
+      if (!id) {
+        id = (
+          Date.now().toString(36) + Math.random().toString(36).slice(2, 8)
+        ).slice(0, 12);
+        localStorage.setItem("wg_vid", id);
+      }
+      return id;
+    } catch (e) {
+      return "";
+    }
   }
 
   function normalizeCountry(enName, zhName) {
@@ -317,7 +345,9 @@
       e: country,
       z: geo.zh || "",
       p: geo.province || "",
-      c: geo.city || ""
+      c: geo.city || "",
+      v: getVisitorId(),
+      u: location.pathname
     });
 
     fetchWithTimeout(NTFY + CONFIG.topic, 8000, {
@@ -331,7 +361,36 @@
 
   /* -------------------------------------------------------------- 拉取 */
 
-  function loadHits() {
+  /* 仓库里的累计快照（由 GitHub Actions 每小时更新） */
+  function loadSnapshot(url) {
+    return fetchWithTimeout(url, 8000)
+      .then(function (res) {
+        return res.json();
+      })
+      .then(function (data) {
+        return {
+          total: data.total || 0,
+          visitors: data.visitors || 0,
+          countries: data.countries || {},
+          cities: data.cities || {},
+          pages: data.pages || {},
+          lastTime: data.last_time || 0
+        };
+      })
+      .catch(function () {
+        return {
+          total: 0,
+          visitors: 0,
+          countries: {},
+          cities: {},
+          pages: {},
+          lastTime: 0
+        };
+      });
+  }
+
+  /* 快照之后产生的实时访问（ntfy 12 小时窗口内） */
+  function loadLive(afterTime) {
     return fetchWithTimeout(
       NTFY + CONFIG.topic + "/json?poll=1&since=" + CONFIG.window,
       8000
@@ -347,34 +406,84 @@
           try {
             var item = JSON.parse(line);
             if (item.event !== "message" || !item.message) return;
+            if (Number(item.time || 0) <= afterTime) return;
             var d = JSON.parse(item.message);
             hits.push({
               e: d.e || "",
               z: d.z || d.n || "",
               p: d.p || "",
-              c: d.c || ""
+              c: d.c || "",
+              u: d.u || ""
             });
           } catch (e) {
             /* 忽略脏数据 */
           }
         });
         return hits;
+      })
+      .catch(function () {
+        return [];
       });
   }
 
-  function aggregate(hits) {
+  function mergeStats(snapshot, live) {
     var countries = {};
     var cities = {};
+    var pages = {};
+    var total = snapshot.total || 0;
 
-    hits.forEach(function (h) {
+    Object.keys(snapshot.countries).forEach(function (k) {
+      countries[k] = snapshot.countries[k];
+    });
+    Object.keys(snapshot.cities).forEach(function (k) {
+      cities[k] = snapshot.cities[k];
+    });
+    Object.keys(snapshot.pages).forEach(function (k) {
+      pages[k] = snapshot.pages[k];
+    });
+
+    live.forEach(function (h) {
+      total += 1;
       var country = normalizeCountry(h.e, h.z);
       if (country) countries[country] = (countries[country] || 0) + 1;
 
       var city = h.c || h.p;
       if (city) cities[city] = (cities[city] || 0) + 1;
+
+      if (h.u) pages[h.u] = (pages[h.u] || 0) + 1;
     });
 
-    return { total: hits.length, countries: countries, cities: cities };
+    return {
+      total: total,
+      visitors: snapshot.visitors || 0,
+      countries: countries,
+      cities: cities,
+      pages: pages
+    };
+  }
+
+  function formatNumber(n) {
+    return Number(n || 0).toLocaleString("en-US");
+  }
+
+  /* 填充顶部三张数字卡 */
+  function fillStats(stats) {
+    var pv = document.getElementById("wg-stat-pv");
+    var uv = document.getElementById("wg-stat-uv");
+    var page = document.getElementById("wg-stat-page");
+
+    if (pv) {
+      pv.textContent = formatNumber(stats.total);
+      pv.setAttribute("title", "累计访问次数（每小时快照 + 实时增量）");
+    }
+    if (uv) {
+      uv.textContent = formatNumber(stats.visitors);
+      uv.setAttribute("title", "累计独立访客（本地匿名 ID 去重，每小时更新）");
+    }
+    if (page) {
+      page.textContent = formatNumber(stats.pages[location.pathname] || 0);
+      page.setAttribute("title", "本页累计访问次数");
+    }
   }
 
   /* -------------------------------------------------------------- 渲染 */
@@ -550,6 +659,7 @@
     if (!box) return;
 
     var mapSrc = box.getAttribute("data-map-src") || DEFAULT_MAP_SRC;
+    var statsSrc = box.getAttribute("data-stats-src") || DEFAULT_STATS_SRC;
     var metaEl = box.querySelector('[data-role="meta"]');
     var chartEl = box.querySelector('[data-role="chart"]');
     var listEl = box.querySelector('[data-role="list"]');
@@ -564,10 +674,16 @@
       if (started) return;
       started = true;
 
-      loadHits()
-        .then(function (hits) {
-          var stats = aggregate(hits);
+      loadSnapshot(statsSrc)
+        .then(function (snapshot) {
+          return loadLive(snapshot.lastTime).then(function (live) {
+            return mergeStats(snapshot, live);
+          });
+        })
+        .then(function (stats) {
           var countryCount = Object.keys(stats.countries).length;
+
+          fillStats(stats);
 
           if (metaEl) {
             metaEl.textContent = stats.total
