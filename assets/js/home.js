@@ -477,8 +477,23 @@
     );
   }
 
+  /* ------------------------------------------- 图片懒加载（首屏内保持立即加载） */
+
+  function lazyImages() {
+    Array.prototype.forEach.call(document.images, function (img) {
+      if (img.getAttribute("loading")) return;
+      var rect = img.getBoundingClientRect();
+      /* 视口下方 400px 以外的图片延迟加载 */
+      if (rect.top > window.innerHeight + 400) {
+        img.setAttribute("loading", "lazy");
+      }
+      img.setAttribute("decoding", "async");
+    });
+  }
+
   function init() {
     syncMastheadHeight();
+    lazyImages();
     buildAmbient();
     buildGlow();
     buildProgress();

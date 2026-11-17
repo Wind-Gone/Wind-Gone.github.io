@@ -2,4 +2,39 @@
 <script src="{{ base_path }}/assets/js/home.js" defer></script>
 <script src="{{ base_path }}/assets/js/visitor-map.js" defer></script>
 
+<!-- MathJax 按需加载：只有页面里真的出现公式时才拉取（优先国内可访问的 npmmirror） -->
+<script>
+  (function () {
+    function hasMath() {
+      var root = document.querySelector(".page__content") || document.body;
+      if (!root) return false;
+      var text = root.textContent || "";
+      return /\\\(|\\\[|\$\$|\\begin\{[a-zA-Z]/.test(text);
+    }
+
+    function loadMathJax() {
+      if (!hasMath()) return;
+
+      var primary = document.createElement("script");
+      primary.async = true;
+      primary.src =
+        "https://registry.npmmirror.com/mathjax/3.2.2/files/es5/tex-mml-chtml.js";
+      primary.onerror = function () {
+        var fallback = document.createElement("script");
+        fallback.async = true;
+        fallback.src =
+          "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js";
+        document.head.appendChild(fallback);
+      };
+      document.head.appendChild(primary);
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", loadMathJax);
+    } else {
+      loadMathJax();
+    }
+  })();
+</script>
+
 {% include analytics.html %}

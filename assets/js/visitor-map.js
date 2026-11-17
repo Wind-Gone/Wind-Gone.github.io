@@ -515,11 +515,36 @@
       "en";
     var t = I18N[lang.indexOf("zh") === 0 ? "zh" : "en"];
 
-    /* 上报：任意页面都记录，每个会话只记一次 */
+    /* 上报：任意页面都记录，每个会话只记一次。
+       放到 load + 空闲时段执行，避免和首屏资源抢带宽。 */
     if (CONFIG.publish) {
-      getGeo()
-        .then(publishHit)
-        .catch(function () {});
+      var publishWhenIdle = function () {
+        var conn = navigator.connection;
+        /* 省流量模式或明显弱网时不上报 */
+        if (conn && (conn.saveData || /(^|-)2g$/.test(conn.effectiveType || ""))) {
+          return;
+        }
+        getGeo()
+          .then(publishHit)
+          .catch(function () {});
+      };
+
+      var schedule =
+        typeof window.requestIdleCallback === "function"
+          ? function (cb) {
+              window.requestIdleCallback(cb, { timeout: 3000 });
+            }
+          : function (cb) {
+              setTimeout(cb, 1500);
+            };
+
+      if (document.readyState === "complete") {
+        schedule(publishWhenIdle);
+      } else {
+        window.addEventListener("load", function () {
+          schedule(publishWhenIdle);
+        });
+      }
     }
 
     if (!box) return;
