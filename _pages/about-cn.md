@@ -257,8 +257,8 @@ redirect_from:
     <span class="wg-visitors__label">总访问量</span>
   </div>
   <div class="wg-visitors__item">
-    <span class="wg-visitors__num" id="wg-stat-uv">—</span>
-    <span class="wg-visitors__label">独立访客</span>
+    <span class="wg-visitors__num" id="wg-stat-regions">—</span>
+    <span class="wg-visitors__label">国家 / 地区</span>
   </div>
   <div class="wg-visitors__item">
     <span class="wg-visitors__num" id="wg-stat-page">—</span>

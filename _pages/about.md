@@ -256,8 +256,8 @@ I love badminton🏸, basketball🏀, calligraphy🖊, singing🎤 and piano🎹
     <span class="wg-visitors__label">Page Views</span>
   </div>
   <div class="wg-visitors__item">
-    <span class="wg-visitors__num" id="wg-stat-uv">—</span>
-    <span class="wg-visitors__label">Unique Visitors</span>
+    <span class="wg-visitors__num" id="wg-stat-regions">—</span>
+    <span class="wg-visitors__label">Countries</span>
   </div>
   <div class="wg-visitors__item">
     <span class="wg-visitors__num" id="wg-stat-page">—</span>

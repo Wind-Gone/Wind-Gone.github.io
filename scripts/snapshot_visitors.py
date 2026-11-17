@@ -66,12 +66,10 @@ def normalize_city(c, p):
 def empty_state():
     return {
         "total": 0,
-        "visitors": 0,
         "countries": {},
-        "cities": {},
+        "by_country": {},
         "pages": {},
         "last_time": 0,
-        "vids": [],
         "seen": [],
     }
 
@@ -123,7 +121,7 @@ def main():
             print("warn: visits.json 解析失败，重新开始累计")
 
     seen = set(state.get("seen") or [])
-    vids = list(state.get("vids") or [])
+    by_country = state.get("by_country") or {}
 
     messages = fetch_messages()
     added = 0
@@ -137,23 +135,31 @@ def main():
         added += 1
         state["total"] = int(state.get("total") or 0) + 1
 
-        if msg["e"]:
-            state["countries"][msg["e"]] = state["countries"].get(msg["e"], 0) + 1
+        country = msg["e"] or "Unknown"
+        state["countries"][country] = state["countries"].get(country, 0) + 1
+
+        slot = by_country.setdefault(country, {"total": 0, "cities": {}})
+        slot["total"] = int(slot.get("total") or 0) + 1
         city = normalize_city(msg["c"], msg["p"])
         if city:
-            state["cities"][city] = state["cities"].get(city, 0) + 1
+            slot["cities"][city] = slot["cities"].get(city, 0) + 1
         if msg["u"]:
             state["pages"][msg["u"]] = state["pages"].get(msg["u"], 0) + 1
-        if msg["v"] and msg["v"] not in vids:
-            vids.append(msg["v"])
         if msg["time"] > int(state.get("last_time") or 0):
             state["last_time"] = msg["time"]
 
-    state["vids"] = vids
-    state["visitors"] = len(vids)
     state["seen"] = list(seen)[-MAX_SEEN:]
     state["countries"] = dict(sorted(state["countries"].items(), key=lambda kv: -kv[1]))
-    state["cities"] = dict(sorted(state["cities"].items(), key=lambda kv: -kv[1]))
+    state["by_country"] = {
+        k: {
+            "total": v["total"],
+            "cities": dict(sorted(v["cities"].items(), key=lambda kv: -kv[1])),
+        }
+        for k, v in sorted(by_country.items(), key=lambda kv: -kv[1]["total"])
+    }
+    state.pop("cities", None)
+    state.pop("visitors", None)
+    state.pop("vids", None)
     state["pages"] = dict(sorted(state["pages"].items(), key=lambda kv: -kv[1]))
 
     os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
@@ -161,8 +167,8 @@ def main():
         json.dump(state, fh, ensure_ascii=False, separators=(",", ":"))
 
     print(
-        "新增 %d 条；累计 %d 次访问、%d 位访客、%d 个国家/地区"
-        % (added, state["total"], state["visitors"], len(state["countries"]))
+        "新增 %d 条；累计 %d 次访问、%d 个国家/地区"
+        % (added, state["total"], len(state["countries"]))
     )
 
 

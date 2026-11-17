@@ -219,22 +219,6 @@
     });
   }
 
-  /* 匿名访客标识：只在本地存一个随机串，用于统计独立访客数 */
-  function getVisitorId() {
-    try {
-      var id = localStorage.getItem("wg_vid");
-      if (!id) {
-        id = (
-          Date.now().toString(36) + Math.random().toString(36).slice(2, 8)
-        ).slice(0, 12);
-        localStorage.setItem("wg_vid", id);
-      }
-      return id;
-    } catch (e) {
-      return "";
-    }
-  }
-
   function normalizeCountry(enName, zhName) {
     var en = String(enName || "").trim();
     if (en) {
@@ -362,7 +346,6 @@
       z: geo.zh || "",
       p: geo.province || "",
       c: geo.city || "",
-      v: getVisitorId(),
       u: location.pathname
     });
 
@@ -386,9 +369,8 @@
       .then(function (data) {
         return {
           total: data.total || 0,
-          visitors: data.visitors || 0,
           countries: data.countries || {},
-          cities: data.cities || {},
+          byCountry: data.by_country || {},
           pages: data.pages || {},
           lastTime: data.last_time || 0
         };
@@ -396,9 +378,8 @@
       .catch(function () {
         return {
           total: 0,
-          visitors: 0,
           countries: {},
-          cities: {},
+          byCountry: {},
           pages: {},
           lastTime: 0
         };
@@ -444,36 +425,42 @@
 
   function mergeStats(snapshot, live) {
     var countries = {};
-    var cities = {};
+    var byCountry = {};
     var pages = {};
     var total = snapshot.total || 0;
 
     Object.keys(snapshot.countries).forEach(function (k) {
       countries[k] = snapshot.countries[k];
     });
-    Object.keys(snapshot.cities).forEach(function (k) {
-      cities[k] = snapshot.cities[k];
-    });
     Object.keys(snapshot.pages).forEach(function (k) {
       pages[k] = snapshot.pages[k];
+    });
+    Object.keys(snapshot.byCountry).forEach(function (k) {
+      var src = snapshot.byCountry[k] || {};
+      byCountry[k] = { total: src.total || 0, cities: {} };
+      Object.keys(src.cities || {}).forEach(function (city) {
+        byCountry[k].cities[city] = src.cities[city];
+      });
     });
 
     live.forEach(function (h) {
       total += 1;
-      var country = normalizeCountry(h.e, h.z);
-      if (country) countries[country] = (countries[country] || 0) + 1;
+
+      var country = normalizeCountry(h.e, h.z) || "Unknown";
+      countries[country] = (countries[country] || 0) + 1;
+      if (!byCountry[country]) byCountry[country] = { total: 0, cities: {} };
+      byCountry[country].total += 1;
 
       var city = cleanEnRegion(h.c) || cleanEnRegion(h.p);
-      if (city) cities[city] = (cities[city] || 0) + 1;
+      if (city) byCountry[country].cities[city] = (byCountry[country].cities[city] || 0) + 1;
 
       if (h.u) pages[h.u] = (pages[h.u] || 0) + 1;
     });
 
     return {
       total: total,
-      visitors: snapshot.visitors || 0,
       countries: countries,
-      cities: cities,
+      byCountry: byCountry,
       pages: pages
     };
   }
@@ -485,16 +472,16 @@
   /* 填充顶部三张数字卡 */
   function fillStats(stats) {
     var pv = document.getElementById("wg-stat-pv");
-    var uv = document.getElementById("wg-stat-uv");
+    var regions = document.getElementById("wg-stat-regions");
     var page = document.getElementById("wg-stat-page");
 
     if (pv) {
       pv.textContent = formatNumber(stats.total);
       pv.setAttribute("title", "累计访问次数（每小时快照 + 实时增量）");
     }
-    if (uv) {
-      uv.textContent = formatNumber(stats.visitors);
-      uv.setAttribute("title", "累计独立访客（本地匿名 ID 去重，每小时更新）");
+    if (regions) {
+      regions.textContent = formatNumber(Object.keys(stats.countries).length);
+      regions.setAttribute("title", "累计覆盖的国家 / 地区数");
     }
     if (page) {
       page.textContent = formatNumber(stats.pages[location.pathname] || 0);
@@ -613,20 +600,44 @@
     });
   }
 
+  /* 以国家为主粒度，城市作为次要信息挂在国家下面 */
   function renderList(listEl, stats) {
-    var entries = Object.keys(stats.cities)
+    var countries = Object.keys(stats.byCountry)
       .map(function (name) {
-        return { name: name, value: stats.cities[name] };
+        var slot = stats.byCountry[name] || { total: 0, cities: {} };
+        var cities = Object.keys(slot.cities || {})
+          .map(function (c) {
+            return { name: cleanEnRegion(c) || c, value: slot.cities[c] };
+          })
+          .sort(function (a, b) {
+            return b.value - a.value;
+          })
+          .slice(0, 6);
+        return { name: name, total: slot.total || 0, cities: cities };
       })
       .sort(function (a, b) {
-        return b.value - a.value;
+        return b.total - a.total;
       })
-      .slice(0, 10);
+      .slice(0, 8);
 
-    listEl.innerHTML = entries
-      .map(function (e) {
-        var name = String(e.name).replace(/\s+(Shi|City|Xian|County)$/i, "");
-        return "<li>" + name + "<b>" + e.value + "</b></li>";
+    listEl.innerHTML = countries
+      .map(function (c) {
+        var cities = c.cities
+          .map(function (x) {
+            return x.name + (x.value > 1 ? " ×" + x.value : "");
+          })
+          .join(" · ");
+        return (
+          '<li class="wg-vmap__country">' +
+          '<span class="wg-vmap__country-name">' +
+          c.name +
+          "</span>" +
+          "<b>" +
+          formatNumber(c.total) +
+          "</b>" +
+          (cities ? '<span class="wg-vmap__cities">' + cities + "</span>" : "") +
+          "</li>"
+        );
       })
       .join("");
   }

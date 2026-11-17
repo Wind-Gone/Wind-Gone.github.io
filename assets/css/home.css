@@ -1197,36 +1197,47 @@ html[data-theme="dark"] .wg-vmap {
 }
 
 .page__content .wg-vmap__list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35em;
+  display: block;
   margin: 0.55em 0 0;
   padding: 0;
   list-style: none;
 }
 
+/* 每个国家一行：国家名 + 次数，右侧/下一行挂城市明细 */
 .page__content .wg-vmap__list li {
-  margin: 0;
-  padding: 0.15em 0.6em;
-  border-radius: 99px;
-  background-color: rgba(127, 127, 127, 0.13);
-  font-size: 0.76em;
-  line-height: 1.5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15em 0.5em;
+  margin: 0 0 0.12em;
+  padding: 0.28em 0.55em;
+  border-radius: 8px;
+  font-size: 0.78em;
+  line-height: 1.55;
 }
 
 .page__content .wg-vmap__list li:hover {
   transform: none;
-  background-color: rgba(82, 173, 200, 0.16);
+  background-color: rgba(82, 173, 200, 0.08);
 }
 
-html[data-theme="dark"] .page__content .wg-vmap__list li {
-  background-color: rgba(255, 255, 255, 0.09);
+html[data-theme="dark"] .page__content .wg-vmap__list li:hover {
+  background-color: rgba(120, 220, 255, 0.09);
+}
+
+.wg-vmap__country-name {
+  font-weight: 600;
 }
 
 .wg-vmap__list b {
-  margin-left: 0.35em;
   font-weight: 700;
+  font-variant-numeric: tabular-nums;
   color: var(--wg-accent);
+}
+
+.wg-vmap__cities {
+  font-size: 0.95em;
+  color: var(--global-text-color-light);
 }
 
 
