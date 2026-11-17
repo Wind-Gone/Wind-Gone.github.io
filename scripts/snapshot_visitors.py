@@ -21,16 +21,46 @@ DATA_FILE = os.path.join(ROOT, "assets", "data", "visits.json")
 MAX_SEEN = 5000
 
 
-def normalize_location(z, p, c):
-    """消息里的 z 可能是「中国<TAB>省<TAB><TAB>市」这类格式，
-    重新切分可以得到更干净的省市；切不出来再退回上报的 p / c。"""
-    parts = [x for x in re.split(r"[\s\u2013\u2014-]+", (z or "").strip()) if x]
-    if len(parts) >= 2 and parts[0].startswith("中国"):
-        prov = parts[1]
-        city = parts[2] if len(parts) > 2 else ""
-        return prov, (city or prov)
-    city = re.sub(r"\s+(Shi|City|Xian|County)$", "", (c or ""), flags=re.I)
-    return (p or ""), city
+# 早期消息里存的中文城市名 → 英文，保证城市胶囊语言统一
+CN_CITY_EN = {
+    "上海市": "Shanghai",
+    "上海": "Shanghai",
+    "北京市": "Beijing",
+    "北京": "Beijing",
+    "广州市": "Guangzhou",
+    "广州": "Guangzhou",
+    "深圳市": "Shenzhen",
+    "深圳": "Shenzhen",
+    "杭州市": "Hangzhou",
+    "杭州": "Hangzhou",
+    "南京市": "Nanjing",
+    "南京": "Nanjing",
+    "武汉市": "Wuhan",
+    "武汉": "Wuhan",
+    "成都市": "Chengdu",
+    "成都": "Chengdu",
+    "西安市": "Xi'an",
+    "西安": "Xi'an",
+    "石家庄": "Shijiazhuang",
+    "石家庄市": "Shijiazhuang",
+    "绥化市": "Suihua",
+    "绥化": "Suihua",
+    "惠州市": "Huizhou",
+    "惠州": "Huizhou",
+    "张家口市": "Zhangjiakou",
+    "张家口": "Zhangjiakou",
+    "达卡县": "Dhaka",
+    "达卡": "Dhaka",
+}
+
+
+def normalize_city(c, p):
+    """统一成英文城市名：去英文后缀 + 中文地名映射，实在没有就保留原样。"""
+    city = (c or p or "").strip()
+    city = re.sub(
+        r"\s+(Shi|City|Xian|County|Sheng|Province|Zizhiqu)$", "", city, flags=re.I
+    )
+    return CN_CITY_EN.get(city, city)
 
 
 def empty_state():
@@ -109,8 +139,7 @@ def main():
 
         if msg["e"]:
             state["countries"][msg["e"]] = state["countries"].get(msg["e"], 0) + 1
-        prov, city = normalize_location(msg["z"], msg["p"], msg["c"])
-        city = city or prov
+        city = normalize_city(msg["c"], msg["p"])
         if city:
             state["cities"][city] = state["cities"].get(city, 0) + 1
         if msg["u"]:

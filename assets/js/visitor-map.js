@@ -246,6 +246,18 @@
     return en || zh || "";
   }
 
+  /* "Guangdong Sheng" / "Zhangjiakou Shi" → "Guangdong" / "Zhangjiakou" */
+  function cleanEnRegion(name) {
+    if (!name) return "";
+    return String(name)
+      .replace(
+        /\s+(Shi|City|Xian|County|Sheng|Province|Zizhiqu|Autonomous Region|Region)$/i,
+        ""
+      )
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
   function normalizeProvinceFromEN(region) {
     if (!region) return "";
     var key = String(region)
@@ -312,14 +324,20 @@
       var zh = (cn && cn.zh) || "";
       var isCN = /中国/.test(zh) || (en && en.code === "CN");
 
+      /* 省市统一用英文（与地图/城市胶囊保持同一语言），
+         ipwho.is 拿不到时再退回中文源 */
       return {
         zh: zh,
         en: (en && en.country) || "",
         cc: (en && en.code) || "",
         province: isCN
-          ? (cn && cn.province) || normalizeProvinceFromEN(en && en.region)
+          ? cleanEnRegion(en && en.region) || (cn && cn.province) || ""
           : "",
-        city: (cn && cn.city) || (en && en.city) || ""
+        city:
+          cleanEnRegion(en && en.city) ||
+          (cn && cn.city) ||
+          cleanEnRegion(en && en.region) ||
+          ""
       };
     });
   }
@@ -445,7 +463,7 @@
       var country = normalizeCountry(h.e, h.z);
       if (country) countries[country] = (countries[country] || 0) + 1;
 
-      var city = h.c || h.p;
+      var city = cleanEnRegion(h.c) || cleanEnRegion(h.p);
       if (city) cities[city] = (cities[city] || 0) + 1;
 
       if (h.u) pages[h.u] = (pages[h.u] || 0) + 1;
