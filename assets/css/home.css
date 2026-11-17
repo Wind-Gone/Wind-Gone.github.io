@@ -1362,10 +1362,205 @@ html[data-theme="dark"] .page__content .wg-vmap__list li:hover {
 }
 
 /* --------------------------------------------------------------------------
-   15. 无障碍：尊重 reduce-motion
+   15. 细节打磨
+   -------------------------------------------------------------------------- */
+
+/* 15.1 字体：补齐中文回退，开启系统级抗锯齿 */
+body,
+.page__content,
+.page__title,
+.masthead__menu-item {
+  font-family: "Trebuchet MS", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC",
+    Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 数字等宽，计数变化时不抖动 */
+.wg-visitors__num,
+.wg-vmap__meta,
+.wg-vmap__list b,
+time {
+  font-variant-numeric: tabular-nums;
+}
+
+/* 15.2 文本选中色 */
+::selection {
+  background-color: rgba(82, 173, 200, 0.24);
+  color: inherit;
+}
+
+html[data-theme="dark"] ::selection {
+  background-color: rgba(120, 220, 255, 0.3);
+}
+
+/* 15.3 键盘焦点环 */
+a:focus-visible,
+button:focus-visible,
+.wg-btn:focus-visible,
+.page__taxonomy-item:focus-visible,
+#wg-mascot:focus-visible {
+  outline: 2px solid var(--wg-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* 15.4 侧栏滚动条收细 */
+.sidebar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(127, 127, 127, 0.35) transparent;
+}
+
+.sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  border-radius: 99px;
+  background-color: rgba(127, 127, 127, 0.28);
+}
+
+.sidebar::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(127, 127, 127, 0.45);
+}
+
+/* 15.5 锚点跳转不要被固定导航遮住 */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+:target {
+  scroll-margin-top: calc(var(--wg-masthead-h) + 18px);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* 15.6 导航当前页高亮 */
+.masthead__menu-item a.is-current {
+  color: var(--global-link-color);
+}
+
+.masthead__menu-item a.is-current::after {
+  transform: scaleX(1);
+}
+
+/* 15.7 行内代码与代码块 */
+.page__content code {
+  padding: 0.12em 0.42em;
+  border-radius: 6px;
+  background-color: rgba(127, 127, 127, 0.13);
+  font-size: 0.88em;
+}
+
+.page__content pre {
+  padding: 1em 1.1em;
+  border: 1px solid var(--global-border-color);
+  background-color: var(--global-code-background-color);
+}
+
+.page__content pre code {
+  padding: 0;
+  background-color: transparent;
+  font-size: 0.86em;
+}
+
+/* 15.8 表格 */
+.page__content table {
+  width: 100%;
+  border: 1px solid var(--global-border-color);
+  border-radius: 10px;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  font-size: 0.92em;
+}
+
+.page__content thead th {
+  background-color: rgba(127, 127, 127, 0.08);
+  text-align: left;
+}
+
+.page__content th,
+.page__content td {
+  padding: 0.5em 0.75em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__content tr:last-child td {
+  border-bottom: none;
+}
+
+.page__content tbody tr:hover {
+  background-color: rgba(82, 173, 200, 0.06);
+}
+
+/* 15.9 深色模式下阴影几乎不可见，改用描边 */
+html[data-theme="dark"] .pub-list > li.pub:hover,
+html[data-theme="dark"] .archive .list__item:hover,
+html[data-theme="dark"] .grid__item .archive__item:hover,
+html[data-theme="dark"] .wg-visitors__item:hover,
+html[data-theme="dark"] .wg-btn:hover,
+html[data-theme="dark"] #wg-top:hover {
+  box-shadow: none;
+}
+
+html[data-theme="dark"] .grid__item .archive__item:hover,
+html[data-theme="dark"] .wg-visitors__item:hover,
+html[data-theme="dark"] .wg-btn:hover {
+  border-color: rgba(255, 255, 255, 0.22);
+}
+
+/* 15.10 统计数字加载骨架（避免开局一片「—」） */
+.wg-visitors.is-loading .wg-visitors__num {
+  display: inline-block;
+  min-width: 3em;
+  color: transparent;
+  border-radius: 6px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(127, 127, 127, 0.1) 25%,
+    rgba(127, 127, 127, 0.22) 37%,
+    rgba(127, 127, 127, 0.1) 63%
+  );
+  background-size: 400% 100%;
+  animation: wg-shimmer 1.4s ease-in-out infinite;
+}
+
+@keyframes wg-shimmer {
+  from {
+    background-position: 100% 0;
+  }
+  to {
+    background-position: 0 0;
+  }
+}
+
+/* 15.11 页脚呼吸感 */
+.page__footer {
+  margin-top: 1.2em;
+}
+
+.page__footer footer {
+  padding-top: 1.4em;
+  padding-bottom: 1.4em;
+}
+
+/* --------------------------------------------------------------------------
+   16. 无障碍：尊重 reduce-motion
    -------------------------------------------------------------------------- */
 
 @media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
   #wg-ambient,
   #wg-glow {
     display: none !important;

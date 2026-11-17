@@ -136,24 +136,8 @@
     );
 
     btn.addEventListener("click", function () {
-      var start = window.pageYOffset;
-      var startTs = null;
-      var duration = reduceMotion ? 0 : 480;
-
-      if (duration === 0) {
-        window.scrollTo(0, 0);
-        return;
-      }
-
-      function step(ts) {
-        if (startTs === null) startTs = ts;
-        var p = Math.min(1, (ts - startTs) / duration);
-        var eased = 1 - Math.pow(1 - p, 3);
-        window.scrollTo(0, start * (1 - eased));
-        if (p < 1) requestAnimationFrame(step);
-      }
-
-      requestAnimationFrame(step);
+      /* 交给原生平滑滚动，避免和 CSS scroll-behavior 打架 */
+      window.scrollTo({ top: 0, behavior: reduceMotion ? "auto" : "smooth" });
     });
 
     update();
@@ -412,6 +396,18 @@
     );
   }
 
+  /* ---------------------------------------------------------- 导航当前页 */
+
+  function markCurrentNav() {
+    var path = (location.pathname || "/").replace(/\/+$/, "") || "/";
+    var links = document.querySelectorAll(".masthead__menu-item a");
+    Array.prototype.forEach.call(links, function (a) {
+      var href = (a.getAttribute("href") || "").replace(/\/+$/, "") || "/";
+      if (!href || href === "#") return;
+      if (href === path) a.classList.add("is-current");
+    });
+  }
+
   /* ------------------------------------------- 图片懒加载（首屏内保持立即加载） */
 
   function lazyImages() {
@@ -428,6 +424,7 @@
 
   function init() {
     syncMastheadHeight();
+    markCurrentNav();
     lazyImages();
     buildAmbient();
     buildGlow();

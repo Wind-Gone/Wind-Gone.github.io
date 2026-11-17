@@ -471,6 +471,9 @@
 
   /* 填充顶部三张数字卡 */
   function fillStats(stats) {
+    var card = document.getElementById("wg-visitors");
+    if (card) card.classList.remove("is-loading");
+
     var pv = document.getElementById("wg-stat-pv");
     var regions = document.getElementById("wg-stat-regions");
     var page = document.getElementById("wg-stat-page");
@@ -645,6 +648,9 @@
   /* ---------------------------------------------------------------- 主流程 */
 
   function init() {
+    var statsCard = document.getElementById("wg-visitors");
+    if (statsCard) statsCard.classList.add("is-loading");
+
     var box = document.getElementById("wg-visitor-map");
     var lang =
       (box && box.getAttribute("data-lang")) ||
@@ -746,7 +752,14 @@
         },
         { rootMargin: "200px" }
       );
+      /* 数字卡和地图任意一个进入视口就开始加载 */
       io.observe(box);
+      if (statsCard && statsCard !== box) io.observe(statsCard);
+
+      /* 兜底：10 秒后仍未触发就主动取一次，避免骨架一直闪 */
+      setTimeout(function () {
+        if (!started) start();
+      }, 10000);
     } else {
       start();
     }
